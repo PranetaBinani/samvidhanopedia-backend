@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simplified Laws</title>
+  <link rel="stylesheet" href="style/style2.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    :root {
+      --wood-dark: #4e352e;
+      --wood-medium: #795548;
+      --wood-light: #d7ccc8;
+      --parchment: #f9f5e9;
+      --gold: #d4af37;
+      --ink: #2c3e50;
+      --accent-blue: #3d240e;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Crimson Text', serif;
+      background-color: var(--parchment);
+      color: var(--ink);
+      background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%235d4037' fill-opacity='0.05' fill-rule='evenodd'/%3E%3C/svg%3E");
+      line-height: 1.6;
+    }
+  </style>
+</head>
+  <body>
+  <div class="sticky-header" id="sticky-header">
+   
+    <div class="logo">
+        <img src="imgs/logo.png">
+        <a href="index.html">Samvidhanopedia<br><p>Your Gateway To Understanding Laws!</p></a></div>
+    <div class="menu">
+      <a href="index.html">Search</a>
+      <a href="consult.html">Consult</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact Us</a>
+      <a href="#login"><i class="fa-solid fa-user"></i></a>
+    </div>
+  </div>
+     
+   
+  
+  <div class="header">
+    <h1>Find & Consult a Lawyer</h1>
+    <p>Navigate your legal journey with our step-by-step pathway to justice</p>
+  </div>
+  
+  <div class="pathway-container">
+    <div class="pathway-line"></div>
+    
+    <div class="process">
+      <div class="step">
+        <h3>Describe Your Problem</h3>
+        <p>Enter your legal issue in simple words. Samvidhanopedia will analyze it to determine relevant laws.</p>
+        <a href="index.html"><i class="fa-solid fa-pen"></i> Describe Issue</a>
+      </div>
+      
+      <div class="step">
+        <h3>Know Applicable Laws</h3>
+        <p>We'll identify relevant IPC sections, Articles, or Acts that apply to your specific situation.</p>
+        <a href="special.html"><i class="fa-solid fa-book"></i> View Applicable Laws</a>
+      </div>
+      
+      <div class="step">
+        <h3>Know Your Options</h3>
+        <p>Based on the law, we'll tell if government agencies can help or if you need a lawyer.</p>
+        <a href="special.html" onclick="showOptions()"><i class="fa-solid fa-lightbulb"></i> Explore Options</a>
+      </div>
+      
+      <div class="step">
+        <h3>Search Lawyers in Kolkata</h3>
+        <p>Need a lawyer? We'll help you find trusted legal experts in Kolkata based on your case type.</p>
+        <a href="#lawrato-section"><i class="fa-solid fa-magnifying-glass"></i> Find Lawyers</a>
+      </div>
+      
+      <div class="step">
+        <h3>Schedule Consultation</h3>
+        <p>Choose from instant chat, voice call, or video consultation based on your preference.</p>
+        <a href="#lawrato-section" onclick="scheduleConsult()"><i class="fa-solid fa-calendar"></i> Schedule Now</a>
+      </div>
+      
+      <div class="step">
+        <h3>Pay & Consult</h3>
+        <p>Pay securely and get expert legal advice. Save contacts for future reference.</p>
+        <a href="#lawrato-section" onclick="showPayment()"><i class="fa-solid fa-credit-card"></i> Secure Payment</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="lawrato-section" id="lawrato-section">
+    <div class="section-header">
+      <h2>Find Lawyers in Kolkata</h2>
+      <a href="https://lawrato.com/lawyers/kolkata" target="_blank">View Full Directory <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+    </div>
+    <div class="lawrato-container">
+      <iframe src="https://lawrato.com/lawyers/kolkata" class="lawrato-iframe" title="LawRato Kolkata Lawyers"></iframe>
+    </div>
+  </div>
+
+  <footer>
+    <p>2025 Simplified Laws. All Rights Reserved.</p>
+    <p>Designed with ❤️ for a better understanding of laws.</p>
+  </footer>
+   <script>
+    function showOptions() {
+      alert("Based on your issue, we recommend:\n\n• Filing a police report (if applicable)\n• Consulting with a specialized lawyer\n• Exploring mediation services");
+    }
+    
+    function scheduleConsult() {
+      alert("Consultation scheduling modal would appear here.\nYou would select date/time and consultation mode.");
+    }
+    
+    function showPayment() {
+      alert("Secure payment modal would appear here.\nYou could pay via UPI, credit card, or digital wallet.");
+    }
+    
+    // Highlight active step when scrolled to
+    window.addEventListener('scroll', function() {
+      const steps = document.querySelectorAll('.step');
+      const pathwayLine = document.querySelector('.pathway-line');
+      
+      steps.forEach(step => {
+        const stepPosition = step.getBoundingClientRect();
+        if (stepPosition.top < window.innerHeight/1.5 && stepPosition.bottom > 0) {
+          step.style.border = "2px solid var(--gold)";
+          step.style.boxShadow = "0 15px 40px rgba(0,0,0,0.2)";
+        } else {
+          step.style.border = "1px solid var(--wood-light)";
+          step.style.boxShadow = "0 10px 30px rgba(0,0,0,0.08)";
+        }
+      });
+    });
+  </script>
+  </body>
+  </html>
+  

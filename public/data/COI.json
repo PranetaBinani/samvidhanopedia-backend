@@ -1,0 +1,2413 @@
+[
+  [
+    {
+      "ArtNo": "0",
+      "Name": "PREAMBLE",
+      "ArtDesc": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:\nJUSTICE, social, economic and political;\nLIBERTY of thought, expression, belief, faith and worship;\nEQUALITY of status and of opportunity;\nand to promote among them all\nFRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;\nIN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+    },
+    {
+      "ArtNo": "1",
+      "Name": "Name and territory of the Union.",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "India, that is Bharat, shall be a Union of States."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "The States and the territories thereof shall be as specified in the First Schedule."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "The territory of India shall comprise",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "the territories of the States;"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "the Union territories specified in the First Schedule; and"
+            },
+            {
+              "SubClauseNo": "c",
+              "SubClauseDesc": "such other territories as may be acquired."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ArtNo": "2",
+      "Name": "Admission or establishment of new States.",
+      "ArtDesc": "Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit."
+    },
+    {
+      "ArtNo": "2A",
+      "Name": "Sikkim to be associated with the Union",
+      "ArtDesc": "Omitted by the Constitution",
+      "Status": "Omitted"
+    },
+    {
+      "ArtNo": "3",
+      "Name": "Formation of new States and alteration of areas, boundaries or names of existing States.",
+      "ArtDesc": "Parliament may by law—\n(a) form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State;\n(b) increase the area of any State;\n(c) diminish the area of any State;\n(d) alter the boundaries of any State;\n(e) alter the name of any State:\nProvided that no Bill for the purpose shall be introduced in either House of Parliament except on the recommendation of the President and unless, where the proposal contained in the Bill affects the area, boundaries or name of any of the States, the Bill has been referred by the President to the Legislature of that State for expressing its views thereon within such period as may be specified in the reference or within such further period as the President may allow and the period so specified or allowed has expired.",
+      "Explanations": [
+        {
+          "ExplanationNo": "1",
+          "Explanation": "In this article, in clauses (a) to (e), \"State\" includes a Union territory, but in the proviso, \"State\" does not include a Union territory."
+        },
+        {
+          "ExplanationNo": "2",
+          "Explanation": "The power conferred on Parliament by clause (a) includes the power to form a new State or Union territory by uniting a part of any State or Union territory to any other State or Union territory."
+        }
+      ]
+    },
+    {
+      "ArtNo": "4",
+      "Name": "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368."
+        }
+      ]
+    },
+    {
+      "ArtNo": "5",
+      "Name": "Citizenship at the commencement of the Constitution.",
+      "ArtDesc": "At the commencement of this Constitution, every person who has his domicile in the territory of India and—\n(a) who was born in the territory of India; or\n(b) either of whose parents was born in the territory of India; or\n(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement,\nshall be a citizen of India."
+    },
+    {
+      "ArtNo": "6",
+      "Name": "Rights of citizenship of certain persons who have migrated to India from Pakistan.",
+      "ArtDesc": "Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—\n(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and\n(b) (i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or\n(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:\nProvided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application."
+    },
+    {
+      "ArtNo": "7",
+      "Name": "Rights of citizenship of certain migrants to Pakistan.",
+      "ArtDesc": "Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India:\nProvided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948."
+    },
+    {
+      "ArtNo": "8",
+      "Name": "Rights of citizenship of certain persons of Indian origin residing outside India.",
+      "ArtDesc": "Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grandparents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India."
+    },
+    {
+      "ArtNo": "9",
+      "Name": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens.",
+      "ArtDesc": "No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State."
+    },
+    {
+      "ArtNo": "10",
+      "Name": "Continuance of the rights of citizenship.",
+      "ArtDesc": "Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen."
+    },
+    {
+      "ArtNo": "11",
+      "Name": "Parliament to regulate the right of citizenship by law.",
+      "ArtDesc": "Nothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship."
+    },
+    {
+      "ArtNo": "12",
+      "Name": "Definition.",
+      "SubHeading": "General",
+      "ArtDesc": "In this Part, unless the context otherwise requires, \"the State\" includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India."
+    },
+    {
+      "ArtNo": "13",
+      "Name": "Laws inconsistent with or in derogation of the fundamental rights.",
+      "SubHeading": "General",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "In this article, unless the context otherwise requires,—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "\"law\" includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law;"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "\"laws in force\" includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas."
+            }
+          ]
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "Nothing in this article shall apply to any amendment of this Constitution made under article 368."
+        }
+      ]
+    },
+    {
+      "ArtNo": "14",
+      "Name": "Equality before law.",
+      "SubHeading": "Right to Equality",
+      "ArtDesc": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+    },
+    {
+      "ArtNo": "15",
+      "SubHeading": "Right to Equality",
+      "Name": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "access to shops, public restaurants, hotels and places of public entertainment; or"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public."
+            }
+          ]
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "Nothing in this article shall prevent the State from making any special provision for women and children."
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes"
+        },
+        {
+          "ClauseNo": "5",
+          "ClauseDesc": "Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30."
+        },
+        {
+          "ClauseNo": "6",
+          "ClauseDesc": "Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5); and"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5) in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30, which in the case of reservation would be in addition to the existing reservations and subject to a maximum of ten per cent. of the total seats in each category."
+            }
+          ]
+        }
+      ],
+      "Explanations": [
+        {
+          "ExplanationNo": "1",
+          "Explanation": "For the purposes of this article and article 16, \"economically weaker sections\" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage."
+        }
+      ]
+    },
+    {
+      "ArtNo": "16",
+      "Name": "Equality of opportunity in matters of public employment.",
+      "SubHeading": "Right to Equality",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office under the Government of, or any local or other authority within, a State or Union territory, any requirement as to residence within that State or Union territory prior to such employment or appointment."
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State."
+        },
+        {
+          "ClauseNo": "4A",
+          "ClauseDesc": "Nothing in this article shall prevent the State from making any provision for reservation in matters of promotion, with consequential seniority, to any class or classes of posts in the services under the State in favour of the Scheduled Castes and the Scheduled Tribes which, in the opinion of the State, are not adequately represented in the services under the State."
+        },
+        {
+          "ClauseNo": "4B",
+          "ClauseDesc": "Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved for being filled up in that year in accordance with any provision for reservation made under clause (4) or clause (4A) as a separate class of vacancies to be filled up in any succeeding year or years and such class of vacancies shall not be considered together with the vacancies of the year in which they are being filled up for determining the ceiling of fifty per cent. reservation on total number of vacancies of that year."
+        },
+        {
+          "ClauseNo": "5",
+          "ClauseDesc": "Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination."
+        },
+        {
+          "ClauseNo": "6",
+          "ClauseDesc": "Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category."
+        }
+      ]
+    },
+    {
+      "ArtNo": "17",
+      "Name": "Abolition of Untouchability.",
+      "SubHeading": "Right to Equality",
+      "ArtDesc": "\"Untouchability\" is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable in accordance with law."
+    },
+    {
+      "ArtNo": "18",
+      "Name": "Abolition of titles.",
+      "SubHeading": "Right to Equality",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "No title, not being a military or academic distinction, shall be conferred by the State."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "No citizen of India shall accept any title from any foreign State."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State."
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State."
+        }
+      ]
+    },
+    {
+      "ArtNo": "19",
+      "Name": "Protection of certain rights regarding freedom of speech, etc.",
+      "SubHeading": "Right to Freedom",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "All citizens shall have the right—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "to freedom of speech and expression;"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "to assemble peaceably and without arms;"
+            },
+            {
+              "SubClauseNo": "c",
+              "SubClauseDesc": "to form associations or unions or co-operative societies;"
+            },
+            {
+              "SubClauseNo": "d",
+              "SubClauseDesc": "to move freely throughout the territory of India;"
+            },
+            {
+              "SubClauseNo": "e",
+              "SubClauseDesc": "to reside and settle in any part of the territory of India; and"
+            },
+            {
+              "SubClauseNo": "f",
+              "SubClauseDesc": "to acquire, hold and dispose of property;",
+              "Status": "Omitted"
+            },
+            {
+              "SubClauseNo": "g",
+              "SubClauseDesc": "to practise any profession, or to carry on any occupation, trade or business"
+            }
+          ]
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of the sovereignty and integrity of India,] the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause."
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause."
+        },
+        {
+          "ClauseNo": "5",
+          "ClauseDesc": "Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe."
+        },
+        {
+          "ClauseNo": "6",
+          "ClauseDesc": "Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—\n(i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business, or\n(ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise."
+        }
+      ]
+    },
+    {
+      "ArtNo": "20",
+      "Name": "Protection in respect of conviction for offences.",
+      "SubHeading": "Right to Freedom",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "No person shall be prosecuted and punished for the same offence more than once."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "No person accused of any offence shall be compelled to be a witness against himself."
+        }
+      ]
+    },
+    {
+      "ArtNo": "21",
+      "Name": "Protection of life and personal liberty.",
+      "SubHeading": "Right to Freedom",
+      "ArtDesc": "No person shall be deprived of his life or personal liberty except according to procedure established by law."
+    },
+    {
+      "ArtNo": "21A",
+      "Name": "Right to education.",
+      "SubHeading": "Right to Freedom",
+      "ArtDesc": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine."
+    },
+    {
+      "ArtNo": "22",
+      "Name": "Protection against arrest and detention in certain cases.",
+      "SubHeading": "Right to Freedom",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "Nothing in clauses (1) and (2) shall apply—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "to any person who for the time being is an enemy alien; or"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "to any person who is arrested or detained under any law providing for preventive detention."
+            }
+          ]
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention:\nProvided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "such person is detained in accordance with the provisions of any law made by Parliament under sub-clauses (a) and (b) of clause (7)."
+            }
+          ]
+        },
+        {
+          "ClauseNo": "5",
+          "ClauseDesc": "When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order."
+        },
+        {
+          "ClauseNo": "6",
+          "ClauseDesc": "Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose."
+        },
+        {
+          "ClauseNo": "7",
+          "ClauseDesc": "Parliament may by law prescribe—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4);"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and"
+            },
+            {
+              "SubClauseNo": "c",
+              "SubClauseDesc": "the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ArtNo": "23",
+      "Name": "Prohibition of traffic in human beings and forced labour.",
+      "SubHeading": "Right against Exploitation",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them."
+        }
+      ]
+    },
+    {
+      "ArtNo": "24",
+      "Name": "Prohibition of employment of children in factories, etc.",
+      "SubHeading": "Right against Exploitation",
+      "ArtDesc": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment."
+    },
+    {
+      "ArtNo": "25",
+      "Name": "Freedom of conscience and free profession, practice and propagation of religion.",
+      "SubHeading": "Right to Freedom of Religion",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "Nothing in this article shall affect the operation of any existing law or prevent the State from making any law—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice;"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and sections of Hindus."
+            }
+          ]
+        }
+      ],
+      "Explanations": [
+        {
+          "ExplanationNo": "1",
+          "Explanation": "The wearing and carrying of kirpans shall be deemed to be included in the profession of the Sikh religion."
+        },
+        {
+          "ExplanationNo": "2",
+          "Explanation": "In sub-clause (b) of clause (2), the reference to Hindus shall be construed as including a reference to persons professing the Sikh, Jaina or Buddhist religion, and the reference to Hindu religious institutions shall be construed accordingly."
+        }
+      ]
+    },
+    {
+      "ArtNo": "26",
+      "Name": "Freedom to manage religious affairs.",
+      "SubHeading": "Right to Freedom of Religion",
+      "ArtDesc": "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right—\n(a) to establish and maintain institutions for religious and charitable purposes;\n(b) to manage its own affairs in matters of religion;\n(c) to own and acquire movable and immovable property; and\n(d) to administer such property in accordance with law."
+    },
+    {
+      "ArtNo": "27",
+      "Name": "Freedom as to payment of taxes for promotion of any particular religion.",
+      "SubHeading": "Right to Freedom of Religion",
+      "ArtDesc": "No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination."
+    },
+    {
+      "ArtNo": "28",
+      "Name": "Freedom as to attendance at religious instruction or religious worship in certain educational institutions",
+      "SubHeading": "Right to Freedom of Religion",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "No religious instruction shall be provided in any educational institution wholly maintained out of State funds."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "Nothing in clause (1) shall apply to an educational institution which is administered by the State but has been established under any endowment or trust which requires that religious instruction shall be imparted in such institution."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "No person attending any educational institution recognised by the State or receiving aid out of State funds shall be required to take part in any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto."
+        }
+      ]
+    },
+    {
+      "ArtNo": "29",
+      "Name": "Protection of interests of minorities.",
+      "SubHeading": "Cultural and Educational Rights",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them."
+        }
+      ]
+    },
+    {
+      "ArtNo": "30",
+      "Name": "Right of minorities to establish and administer educational institutions.",
+      "SubHeading": "Cultural and Educational Rights",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice."
+        },
+        {
+          "ClauseNo": "1A",
+          "ClauseDesc": "In making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language."
+        }
+      ]
+    },
+    {
+      "ArtNo": "31",
+      "Name": "Compulsory acquisition of property.",
+      "ArtDesc": "Omitted by the Constitution",
+      "Status": "Omitted"
+    },
+    {
+      "ArtNo": "31A",
+      "Name": "Saving of laws providing for acquisition of estates, etc.",
+      "SubHeading": "Saving of Certain Laws",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "Notwithstanding anything contained in article 13, no law providing for—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights, or"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property, or"
+            },
+            {
+              "SubClauseNo": "c",
+              "SubClauseDesc": "the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations, or"
+            },
+            {
+              "SubClauseNo": "d",
+              "SubClauseDesc": "the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof, or"
+            },
+            {
+              "SubClauseNo": "e",
+              "SubClauseDesc": "the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence,"
+            }
+          ],
+          "FollowUp": "shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14 or article 19:\nProvided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:\nProvided further that where any law makes any provision for the acquisition by the State of any estate and where any land comprised therein is held by a person under his personal cultivation, it shall not be lawful for the State to acquire any portion of such land as is within the ceiling limit applicable to him under any law for the time being in force or any building or structure standing thereon or appurtenant thereto, unless the law relating to the acquisition of such land, building or structure, provides for payment of compensation at a rate which shall not be less than the market value thereof."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": " In this article,—",
+          "SubClauses": [
+            {
+              "SubClauseNo": "a",
+              "SubClauseDesc": "the expression “estate” shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include—\n(i) any jagir, inam or muafi or other similar grant and in the States of Tamil Nadu and Kerala, any janmam right;\n(ii) any land held under ryotwari settlement;\n(iii) any land held or let for purposes of agriculture or for purposes ancillary thereto, including waste land, forest land, land for pasture or sites of buildings and other structures occupied by cultivators of land, agricultural labourers and village artisans;"
+            },
+            {
+              "SubClauseNo": "b",
+              "SubClauseDesc": "the expression “rights”, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyator other intermediary and any rights or privileges in respect of land revenue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ArtNo": "31B",
+      "Name": "Validation of certain Acts and Regulations.",
+      "SubHeading": "Saving of Certain Laws",
+      "ArtDesc": "Without prejudice to the generality of the provisions contained in article 31A, none of the Acts and Regulations specified in the Ninth Schedule nor any of the provisions thereof shall be deemed to be void, or ever to have become void, on the ground that such Act, Regulation or provision is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part, and notwithstanding any judgment, decree or order of any court or Tribunal to the contrary, each of the said Acts and Regulations shall, subject to the power of any competent Legislature to repeal or amend it, continue in force."
+    },
+    {
+      "ArtNo": "31C",
+      "Name": "Saving of laws giving effect to certain directive principles.",
+      "SubHeading": "Saving of Certain Laws",
+      "ArtDesc": "Notwithstanding anything contained in article 13, no law giving effect to the policy of the State towards securing all or any of the principles laid down in Part IV shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14 or article 19; and no law containing a declaration that it is for giving effect to such policy shall be called in question in any court on the ground that it does not give effect to such policy:\nProvided that where such law is made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent."
+    },
+    {
+      "ArtNo": "31D",
+      "Name": "Saving of laws in respect of anti-national activities.",
+      "SubHeading": "Saving of Certain Laws",
+      "ArtDesc": "Omitted by the Constitution.",
+      "Status": "Omitted"
+    },
+    {
+      "ArtNo": "32",
+      "Name": "Remedies for enforcement of rights conferred by this Part.",
+      "SubHeading": "Right to Constitutional Remedies",
+      "Clauses": [
+        {
+          "ClauseNo": "1",
+          "ClauseDesc": "The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed."
+        },
+        {
+          "ClauseNo": "2",
+          "ClauseDesc": "The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part."
+        },
+        {
+          "ClauseNo": "3",
+          "ClauseDesc": "Without prejudice to the powers conferred on the Supreme Court by clauses (1) and (2), Parliament may by law empower any other court to exercise within the local limits of its jurisdiction all or any of the powers exercisable by the Supreme Court under clause (2)"
+        },
+        {
+          "ClauseNo": "4",
+          "ClauseDesc": "The right guaranteed by this article shall not be suspended except as otherwise provided for by this Constitution."
+        }
+      ]
+    },
+    {
+      "ArtNo": "32A",
+      "Name": "Constitutional validity of State laws not to be considered in proceedings under article 32.",
+      "SubHeading": "Right to Constitutional Remedies",
+      "ArtDesc": "Omitted by the Constitution.",
+      "Status": "Omitted"
+    },
+    {
+      "ArtNo": "33",
+      "Name": "Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.",
+      "SubHeading": "Right to Constitutional Remedies",
+      "ArtDesc": "Parliament may, by law, determine to what extent any of the rights conferred by this Part shall, in their application to,—\n(a) the members of the Armed Forces; or\n(b) the members of the Forces charged with the maintenance of public order; or\n(c) persons employed in any bureau or other organisation established by the State for purposes of intelligence or counter intelligence; or\n(d) person employed in, or in connection with, the telecommunication systems set up for the purposes of any Force, bureau or organisation referred to in clauses (a) to (c), be restricted or abrogated so as to ensure the proper discharge of their duties and the maintenance of discipline among them."
+    },
+    {
+      "ArtNo": "34",
+      "Name": "Restriction on rights conferred by this Part while martial law is in force in any area.",
+      "SubHeading": "Right to Constitutional Remedies",
+      "ArtDesc": "Notwithstanding anything in the foregoing provisions of this Part, Parliament may by law indemnify any person in the service of the Union or of a State or any other person in respect of any act done by him in connection with the maintenance or restoration of order in any area within the territory of India where martial law was in force or validate any sentence passed, punishment inflicted, forfeiture ordered or other act done under martial law in such area."
+    },
+    {
+      "ArtNo": "35",
+      "Name": "Legislation to give effect to the provisions of this Part.",
+      "SubHeading": "Right to Constitutional Remedies",
+      "ArtDesc": "Notwithstanding anything in this Constitution,—\n(a) Parliament shall have, and the Legislature of a State shall not have, power to make laws—\n(i) with respect to any of the matters which under clause (3) of article 16, clause (3) of article 32, article 33 and article 34 may be provided for by law made by Parliament; and\n(ii) for prescribing punishment for those acts which are declared to be offences under this Part,\nand Parliament shall, as soon as may be after the commencement of this Constitution, make laws for prescribing punishment for the acts referred to in sub-clause (ii);\n(b) any law in force immediately before the commencement of this Constitution in the territory of India with respect to any of the matters referred to in sub-clause (i) of clause (a) or providing for punishment for any act referred to in sub-clause (ii) of that clause shall, subject to the terms thereof and to any adaptations and modifications that may be made therein under article 372, continue in force until altered or repealed or amended by Parliament.",
+      "Explanations": [
+        {
+          "ExplanationNo": "1",
+          "Explanation": "In this article, the expression “law in force” has the same meaning as in article 372."
+        }
+      ]
+    },
+    {
+      "ArtNo": "36",
+      "Name": "Definition",
+      "ArtDesc": "In this Part, unless the context otherwise requires, the State has the same meaning as in Part III.",
+      "Clauses": [],
+      "Keywords": [
+        "definition",
+        "state",
+        "directive principles"
+      ]
+    },
+    {
+      "ArtNo": "37",
+      "Name": "Application of the principles contained in this Part",
+      "ArtDesc": "The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country.",
+      "Clauses": [],
+      "Keywords": [
+        "directive principles",
+        "governance",
+        "non-enforceable"
+      ]
+    },
+    {
+      "ArtNo": "38",
+      "Name": "State to secure a social order for the promotion of welfare of the people",
+      "ArtDesc": "The State shall strive to promote the welfare of the people by securing a social order permeated by justice—social, economic and political...",
+      "Clauses": [],
+      "Keywords": [
+        "social justice",
+        "welfare",
+        "economic equality",
+        "article 38"
+      ]
+    },
+    {
+      "ArtNo": "39",
+      "Name": "Certain principles of policy to be followed by the State",
+      "ArtDesc": "The State shall, in particular, direct its policy towards securing—\n(a) that the citizens, men and women equally, have the right to an adequate means of livelihood...\n(f) that children are not abused and that childhood and youth are protected against exploitation.",
+      "Clauses": [],
+      "Keywords": [
+        "policy",
+        "livelihood",
+        "equality",
+        "children",
+        "state policy"
+      ]
+    },
+    {
+      "ArtNo": "39A",
+      "Name": "Equal justice and free legal aid",
+      "ArtDesc": "The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall provide free legal aid...",
+      "Clauses": [],
+      "Keywords": [
+        "legal aid",
+        "justice",
+        "equal opportunity",
+        "article 39a"
+      ]
+    },
+    {
+      "ArtNo": "40",
+      "Name": "Organisation of village panchayats",
+      "ArtDesc": "The State shall take steps to organise village panchayats and endow them with such powers and authority...",
+      "Clauses": [],
+      "Keywords": [
+        "panchayat",
+        "local government",
+        "village"
+      ]
+    },
+    {
+      "ArtNo": "41",
+      "Name": "Right to work, education and public assistance",
+      "ArtDesc": "The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment...",
+      "Clauses": [],
+      "Keywords": [
+        "right to work",
+        "education",
+        "unemployment",
+        "welfare"
+      ]
+    },
+    {
+      "ArtNo": "42",
+      "Name": "Provision for just and humane conditions of work and maternity relief",
+      "ArtDesc": "The State shall make provision for securing just and humane conditions of work and for maternity relief.",
+      "Clauses": [],
+      "Keywords": [
+        "maternity",
+        "work conditions",
+        "labour",
+        "welfare"
+      ]
+    },
+    {
+      "ArtNo": "43",
+      "Name": "Living wage, etc., for workers",
+      "ArtDesc": "The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, a living wage, conditions of work ensuring a decent standard of life...",
+      "Clauses": [],
+      "Keywords": [
+        "living wage",
+        "workers",
+        "labour rights",
+        "standard of life"
+      ]
+    },
+    {
+      "ArtNo": "43A",
+      "Name": "Participation of workers in management of industries",
+      "ArtDesc": "The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings...",
+      "Clauses": [],
+      "Keywords": [
+        "workers",
+        "management",
+        "industries",
+        "labour participation"
+      ]
+    },
+    {
+      "ArtNo": "44",
+      "Name": "Uniform civil code for the citizens",
+      "ArtDesc": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+      "Clauses": [],
+      "Keywords": [
+        "uniform civil code",
+        "secularism",
+        "civil rights"
+      ]
+    },
+    {
+      "ArtNo": "45",
+      "Name": "Provision for early childhood care and education to children below the age of six years",
+      "ArtDesc": "The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years.",
+      "Clauses": [],
+      "Keywords": [
+        "early education",
+        "children",
+        "article 45",
+        "care"
+      ]
+    },
+    {
+      "ArtNo": "46",
+      "Name": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections",
+      "ArtDesc": "The State shall promote with special care the educational and economic interests of the weaker sections of the people, and shall protect them from social injustice and all forms of exploitation.",
+      "Keywords": [
+        "education",
+        "jobs",
+        "tribals",
+        "sc st",
+        "support",
+        "help",
+        "poor",
+        "village",
+        "discrimination"
+      ]
+    },
+    {
+      "ArtNo": "47",
+      "Name": "Duty of the State to raise the level of nutrition and the standard of living and to improve public health",
+      "ArtDesc": "The State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties...",
+      "Keywords": [
+        "health",
+        "food",
+        "medicine",
+        "alcohol",
+        "drugs",
+        "nutrition",
+        "living",
+        "hospital",
+        "clean",
+        "disease"
+      ]
+    },
+    {
+      "ArtNo": "48",
+      "Name": "Organisation of agriculture and animal husbandry",
+      "ArtDesc": "The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall take steps to preserve and improve the breeds...",
+      "Keywords": [
+        "farming",
+        "cows",
+        "milk",
+        "animals",
+        "agriculture",
+        "village",
+        "buffalo",
+        "organic",
+        "livestock"
+      ]
+    },
+    {
+      "ArtNo": "48A",
+      "Name": "Protection and improvement of environment and safeguarding of forests and wildlife",
+      "ArtDesc": "The State shall endeavour to protect and improve the environment and to safeguard the forests and wildlife of the country.",
+      "Keywords": [
+        "trees",
+        "wildlife",
+        "pollution",
+        "clean air",
+        "nature",
+        "animals",
+        "climate",
+        "forest",
+        "plastic"
+      ]
+    },
+    {
+      "ArtNo": "49",
+      "Name": "Protection of monuments and places and objects of national importance",
+      "ArtDesc": "It shall be the obligation of the State to protect every monument or place or object of artistic or historic interest...",
+      "Keywords": [
+        "monuments",
+        "heritage",
+        "buildings",
+        "history",
+        "temple",
+        "museum",
+        "tourism",
+        "art",
+        "culture"
+      ]
+    },
+    {
+      "ArtNo": "50",
+      "Name": "Separation of judiciary from the executive",
+      "ArtDesc": "The State shall take steps to separate the judiciary from the executive in the public services of the State.",
+      "Keywords": [
+        "court",
+        "judge",
+        "police",
+        "justice",
+        "law",
+        "government",
+        "powers",
+        "independent"
+      ]
+    },
+    {
+      "ArtNo": "51",
+      "Name": "Promotion of international peace and security",
+      "ArtDesc": "The State shall endeavour to promote international peace and security; maintain just and honourable relations between nations...",
+      "Keywords": [
+        "peace",
+        "war",
+        "countries",
+        "foreign",
+        "friendship",
+        "treaty",
+        "world",
+        "respect"
+      ]
+    },
+    {
+      "ArtNo": "51A",
+      "Name": "Fundamental duties",
+      "ArtDesc": "It shall be the duty of every citizen of India— (a) to abide by the Constitution and respect its ideals and institutions...",
+      "Keywords": [
+        "duties",
+        "citizens",
+        "national flag",
+        "respect",
+        "help",
+        "clean",
+        "unity",
+        "culture",
+        "vote",
+        "country"
+      ]
+    },
+    {
+      "ArtNo": "52",
+      "Name": "The President of India",
+      "ArtDesc": "There shall be a President of India.",
+      "Keywords": [
+        "president",
+        "head of state",
+        "rashtrapati",
+        "leader",
+        "government"
+      ]
+    },
+    {
+      "ArtNo": "53",
+      "Name": "Executive power of the Union",
+      "ArtDesc": "The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers...",
+      "Keywords": [
+        "president",
+        "power",
+        "authority",
+        "central government",
+        "minister",
+        "rule"
+      ]
+    },
+    {
+      "ArtNo": "54",
+      "Name": "Election of President",
+      "ArtDesc": "The President shall be elected by the members of an electoral college consisting of the elected members of both Houses of Parliament...",
+      "Keywords": [
+        "vote",
+        "president",
+        "election",
+        "parliament",
+        "mla",
+        "mp"
+      ]
+    },
+    {
+      "ArtNo": "55",
+      "Name": "Manner of election of President",
+      "ArtDesc": "The election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote...",
+      "Keywords": [
+        "president",
+        "election",
+        "voting method",
+        "rules",
+        "selection"
+      ]
+    },
+    {
+      "ArtNo": "56",
+      "Name": "Term of office of President",
+      "ArtDesc": "The President shall hold office for a term of five years from the date on which he enters upon his office...",
+      "Keywords": [
+        "president",
+        "term",
+        "years",
+        "retire",
+        "resign"
+      ]
+    },
+    {
+      "ArtNo": "57",
+      "Name": "Eligibility for re-election",
+      "ArtDesc": "A person who holds, or who has held, office as President shall, subject to the other provisions of this Constitution, be eligible for re-election to that office.",
+      "Keywords": [
+        "president",
+        "re-election",
+        "repeat",
+        "again",
+        "rules"
+      ]
+    },
+    {
+      "ArtNo": "58",
+      "Name": "Qualifications for election as President",
+      "ArtDesc": "No person shall be eligible for election as President unless he— (a) is a citizen of India; (b) has completed the age of thirty-five years...",
+      "Keywords": [
+        "age",
+        "citizen",
+        "education",
+        "qualification",
+        "president",
+        "election"
+      ]
+    },
+    {
+      "ArtNo": "59",
+      "Name": "Conditions of President’s office",
+      "ArtDesc": "The President shall not hold any other office of profit and shall be entitled to use of official residence and allowances...",
+      "Keywords": [
+        "salary",
+        "house",
+        "benefits",
+        "rules",
+        "conditions",
+        "president"
+      ]
+    },
+    {
+      "ArtNo": "60",
+      "Name": "Oath or affirmation by the President",
+      "ArtDesc": "Every President and every person acting as President shall, before entering upon his office, make and subscribe in the presence of the Chief Justice...",
+      "Keywords": [
+        "oath",
+        "promise",
+        "president",
+        "constitution",
+        "chief justice"
+      ]
+    },
+    {
+      "ArtNo": "300A",
+      "Name": "Persons not to be deprived of property save by authority of law",
+      "ArtDesc": "No person shall be deprived of his property save by authority of law.",
+      "Keywords": [
+        "property",
+        "ownership",
+        "law",
+        "rights",
+        "land",
+        "assets"
+      ],
+      "Category": "Property Rights"
+    },
+    {
+      "ArtNo": "265",
+      "Name": "Taxes not to be imposed save by authority of law",
+      "ArtDesc": "No tax shall be levied or collected except by authority of law.",
+      "Keywords": [
+        "tax",
+        "GST",
+        "levy",
+        "income",
+        "finance",
+        "authority"
+      ],
+      "Category": "Tax Laws"
+    },
+    {
+      "ArtNo": "268",
+      "Name": "Duties levied by the Union but collected and appropriated by the States",
+      "ArtDesc": "Such stamp duties and such duties of excise on medicinal and toilet preparations as are mentioned in the Union List shall be levied by the Government of India but shall be collected — (a) in the case where such duties are leviable within any Union territory, by the Government of India, and (b) in other cases, by the States within which such duties are respectively leviable.",
+      "Keywords": [
+        "tax",
+        "duties",
+        "union",
+        "states",
+        "collection",
+        "finance"
+      ],
+      "Category": "Tax Laws"
+    }
+  ],
+  [
+  {
+    "ArtNo": "FEMA-1999",
+    "Name": "Foreign Exchange Management Act, 1999",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to foreign exchange with the objective of facilitating external trade and payments and for promoting the orderly development and maintenance of foreign exchange market in India.\" Passed in response to the liberalization of India’s economy, it replaced the older FERA to shift from exchange control to exchange management under RBI oversight. Effect came into force on 1 June 2000.",
+    "Keywords": ["forex", "external trade", "RBI", "payments", "international", "remittance", "currency", "market", "exchange", "liberalisation"]
+  },
+  {
+    "ArtNo": "FACT-1948",
+    "Name": "Factories Act, 1948",
+    "ArtDesc": "\"An Act to consolidate and amend the law regulating labour in factories.\" Enacted to protect workers’ health, safety and welfare by defining conditions like working hours, leave, adult/child labor, and hazard control. Came into force from April 1, 1949, forming the basis for modern workplace safety.",
+    "Keywords": ["workers", "safety", "health", "leaves", "hours", "child labour", "factory", "inspector", "welfare", "occupier"]
+  },
+  {
+    "ArtNo": "EPA-1986",
+    "Name": "Environment (Protection) Act, 1986",
+    "ArtDesc": "\"An Act to provide for the protection and improvement of environment and for matters connected therewith.\" Enacted under Article 253 after the 1972 Stockholm Conference and Bhopal disaster. This umbrella law empowers the Central Government to regulate pollution, set standards, and handle hazardous substances nationwide.",
+    "Keywords": ["environment", "pollution", "air", "water", "waste", "hazardous", "Bhopal", "safety", "standards", "laboratory"]
+  },
+  {
+    "ArtNo": "PASSPT-1967",
+    "Name": "Passports Act, 1967",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to passports and travel documents.\" Enacted to regulate issuance and revocation of passports and travel documents to Indian citizens. It empowers authorities to prohibit travel in public interest and was shaped in light of global mobility concerns post-independence.",
+    "Keywords": ["passport", "travel", "citizenship", "ID", "visa", "immigration", "border", "documents", "application", "revocation"]
+  },
+  {
+    "ArtNo": "EXTRD-1962",
+    "Name": "Extradition Act, 1962",
+    "ArtDesc": "\"An Act to make provision for the extradition of offenders to and from territories outside India.\" Designed to enable cooperation with other countries for returning accused persons, based on treaties. It replaced colonial extradition law and continues to support international crime prevention.",
+    "Keywords": ["crime", "police", "international", "treaty", "fugitive", "arrest", "justice", "court", "return", "legal"]
+  },
+  {
+    "ArtNo": "AIRC-1934",
+    "Name": "Aircraft Act, 1934",
+    "ArtDesc": "\"An Act to make special provisions for the purposes of the Convention on International Civil Aviation signed at Chicago on 7th December 1944.\" Created to regulate aircraft operation, safety, licensing of crew, and airworthiness standards. It sets framework for civil aviation regulation in India.",
+    "Keywords": ["flight", "airplane", "pilot", "airport", "safety", "license", "air traffic", "regulation", "civil aviation", "airline"]
+  },
+  {
+    "ArtNo": "MZONE-1976",
+    "Name": "Maritime Zones of India Act, 1976",
+    "ArtDesc": "\"An Act to define the maritime zones of India and to provide for the jurisdiction of India in such zones.\" Implemented UNCLOS provisions to define territorial waters, contiguous zone, exclusive economic zone and continental shelf — giving India legal control over its marine resources.",
+    "Keywords": ["sea", "water", "fishing", "navy", "survey", "oil", "jurisdiction", "territory", "resources", "coast"]
+  },
+  {
+    "ArtNo": "ANTHJ-2016",
+    "Name": "Anti-Hijacking Act, 2016",
+    "ArtDesc": "\"An Act to prohibit and punish hijacking, and for matters connected therewith or incidental thereto.\" Enacted to implement the Beijing Convention and Paris Protocols, this law strengthens penalties and guidelines for preventing aircraft hijackings and protecting civil aviation.",
+    "Keywords": ["hijack", "airplane", "security", "pilot", "terror", "crime", "punishment", "air safety", "airport", "terrorism"]
+  },
+  {
+    "ArtNo": "WMD-2005",
+    "Name": "Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005",
+    "ArtDesc": "\"An Act to give effect to the Agreement on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction.\" Designed to curb proliferation of chemical, biological, nuclear weapons and related technologies in line with UN treaties, with strict penalties.",
+    "Keywords": ["chemical weapons", "nuclear", "biological", "terrorism", "proliferation", "security", "UN", "treaty", "crime", "weapon"]
+  },
+  {
+    "ArtNo": "IMF-1945",
+    "Name": "International Monetary Fund Act, 1945",
+    "ArtDesc": "\"An Act to give effect to the Articles of Agreement of the International Monetary Fund.\" Enables India to be a member of IMF, regulate financial obligations, contributions, loans, and reporting – aligning India’s balance-of-payments policies with international standards.",
+    "Keywords": ["IMF", "money", "bop", "loans", "currency", "fund", "exchange", "finance", "development", "economy"]
+  },
+  {
+    "ArtNo": "FCRA-2010",
+    "Name": "Foreign Contribution (Regulation) Act, 2010",
+    "ArtDesc": "\"An Act to consolidate the law relating to the acceptance and utilisation of foreign contributions and for matters connected therewith.\" Introduced to promote transparency in funding of NGOs and groups receiving foreign funds, to ensure national interest and security.",
+    "Keywords": ["ngo", "foreign money", "donation", "funds", "registration", "government", "security", "charity", "transparency", "audit"]
+  },
+  {
+    "ArtNo": "DIPL-1972",
+    "Name": "Diplomatic Relations Act, 1972",
+    "ArtDesc": "\"An Act to enable effect to be given to the Convention on Diplomatic Relations.\" Enacted to implement the Vienna Convention on Diplomatic Relations, clarifying privileges, immunities, and functions of diplomatic agents posted in India.",
+    "Keywords": ["embassy", "ambassador", "visa", "privilege", "diplomatic", "immunity", "international", "treaty", "foreign", "mission"]
+  },
+  {
+    "ArtNo": "WORK-FACT-1948",
+    "Name": "Factories Act, 1948",
+    "ArtDesc": "\"An Act to consolidate and amend the law regulating labour in factories.\" It ensures health, safety, welfare, working hours, and leave of workers. This act was framed to protect factory workers post-Independence from hazardous working conditions.",
+    "Keywords": ["factory", "labour", "workplace", "safety", "shift", "leave", "hazard", "industrial", "accident", "health"]
+  },
+  {
+    "ArtNo": "WORK-SHOP-State",
+    "Name": "Shops and Establishments Act",
+    "ArtDesc": "\"An Act to regulate conditions of work and employment in shops, commercial establishments, restaurants, theatres, etc.\" Applied individually by states to govern opening hours, holidays, overtime, and registration of businesses.",
+    "Keywords": ["shop", "timing", "holiday", "store", "registration", "labour", "employees", "salary", "license", "shift"]
+  },
+  {
+    "ArtNo": "WORK-MAT-1961",
+    "Name": "Maternity Benefit Act, 1961",
+    "ArtDesc": "\"An Act to regulate the employment of women in certain establishments for certain periods before and after childbirth and to provide for maternity benefit.\" It ensures paid leave, job protection, and nursing breaks for female employees.",
+    "Keywords": ["maternity", "pregnancy", "mother", "leave", "child", "women", "work", "delivery", "benefit", "baby"]
+  },
+  {
+    "ArtNo": "WORK-POSH-2013",
+    "Name": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "ArtDesc": "\"An Act to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints.\" Born from the Vishaka Guidelines (1997), it mandates Internal Complaints Committees and grievance redressal.",
+    "Keywords": ["harassment", "women", "office", "work", "complaint", "touch", "boss", "IC", "POSH", "abuse"]
+  },
+  {
+    "ArtNo": "WORK-IE-1946",
+    "Name": "Industrial Employment (Standing Orders) Act, 1946",
+    "ArtDesc": "\"An Act to require employers to define with sufficient precision the conditions of employment.\" It brings uniformity in service conditions related to classification, termination, discipline, holidays, and misconduct.",
+    "Keywords": ["employment", "rules", "discipline", "conditions", "workers", "job", "regulation", "termination", "service", "leave"]
+  },
+  {
+    "ArtNo": "WORK-ESI-1948",
+    "Name": "Employees' State Insurance Act, 1948",
+    "ArtDesc": "\"An Act to provide for certain benefits to employees in case of sickness, maternity and employment injury.\" It established ESIC to administer health insurance and medical care for workers and their dependents.",
+    "Keywords": ["insurance", "esi", "sick", "injury", "benefit", "workers", "treatment", "health", "salary", "medical"]
+  },
+  {
+    "ArtNo": "WORK-GRAT-1972",
+    "Name": "Payment of Gratuity Act, 1972",
+    "ArtDesc": "\"An Act to provide for a scheme for the payment of gratuity to employees engaged in factories, mines, oilfields, etc.\" It rewards long-term service and ensures monetary benefits on retirement, resignation, or death.",
+    "Keywords": ["gratuity", "retirement", "bonus", "leave", "payment", "salary", "benefit", "job end", "years", "service"]
+  },
+  {
+    "ArtNo": "WORK-ID-1947",
+    "Name": "Industrial Disputes Act, 1947",
+    "ArtDesc": "\"An Act to make provision for the investigation and settlement of industrial disputes.\" It defines strikes, lockouts, retrenchment, and lays out dispute resolution mechanisms like Labour Courts and tribunals.",
+    "Keywords": ["strike", "dispute", "labour", "court", "shutdown", "protest", "layoff", "union", "industry", "settlement"]
+  },
+  {
+    "ArtNo": "WORK-EPF-1952",
+    "Name": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "ArtDesc": "\"An Act to provide for the institution of provident funds, pension fund and deposit-linked insurance fund for employees.\" Managed by EPFO, this ensures long-term savings and social security for organized sector workers.",
+    "Keywords": ["pf", "epf", "retirement", "savings", "pension", "salary", "fund", "job", "insurance", "benefit"]
+  },
+  {
+    "ArtNo": "WORK-OSH-2020",
+    "Name": "Occupational Safety, Health and Working Conditions Code, 2020",
+    "ArtDesc": "\"A Code to consolidate and amend the laws regulating the occupational safety, health and working conditions of the persons employed.\" It merges 13 old labour laws including Factories Act, Mines Act, and others under one umbrella.",
+    "Keywords": ["safety", "health", "conditions", "workers", "labour", "code", "employment", "rules", "factory", "job"]
+  },
+  {
+    "ArtNo": "HAR-IPC-354",
+    "Name": "Indian Penal Code, Section 354",
+    "ArtDesc": "\"Assault or criminal force to woman with intent to outrage her modesty.—Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment...\" Enacted as part of the original IPC in 1860 to protect women's dignity. This section was notably strengthened after the 2012 Nirbhaya case.",
+    "Keywords": ["assault", "women", "modesty", "criminal force", "outrage", "harassment", "IPC", "dignity", "protection", "gender violence"]
+  },
+  {
+    "ArtNo": "HAR-IRW-1986",
+    "Name": "Indecent Representation of Women (Prohibition) Act",
+    "ArtDesc": "\"An Act to prohibit indecent representation of women through advertisements or in publications, writings, paintings, figures or in any other manner.\" Passed to combat objectification of women in media after recommendations from the Committee on Status of Women (1974). Came into force on October 2, 1987.",
+    "Keywords": ["women", "representation", "advertisements", "media", "objectification", "prohibition", "publications", "decency", "gender equality", "depiction"]
+  },
+  {
+    "ArtNo": "HAR-POA-1989",
+    "Name": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act",
+    "ArtDesc": "\"An Act to prevent the commission of offences of atrocities against the members of Scheduled Castes and Scheduled Tribes.\" Enacted to address persistent caste-based violence following the Mandal Commission report. Provides special protections and fast-track courts. Rules framed in 1995.",
+    "Keywords": ["caste", "atrocities", "SC/ST", "discrimination", "protection", "social justice", "reservation", "violence", "marginalized", "equality"]
+  },
+  {
+    "ArtNo": "HAR-IT-66E",
+    "Name": "Information Technology Act, Section 66E",
+    "ArtDesc": "\"Punishment for violation of privacy.—Whoever intentionally captures, publishes or transmits the image of a private area of any person without his or her consent... shall be punished with imprisonment.\" Added through 2008 amendment after rising cyber harassment cases. Enforced from October 27, 2009.",
+    "Keywords": ["cybercrime", "privacy", "voyeurism", "IT Act", "digital", "harassment", "consent", "images", "technology", "social media"]
+  },
+  {
+    "ArtNo": "HAR-DV-2005",
+    "Name": "Protection of Women from Domestic Violence Act",
+    "ArtDesc": "\"An Act to provide for more effective protection of the rights of women guaranteed under the Constitution who are victims of violence of any kind occurring within the family.\" First comprehensive law recognizing domestic violence as legal offense. Came into force October 26, 2006.",
+    "Keywords": ["domestic", "violence", "women", "protection", "marital", "abuse", "family", "restraining order", "shelter", "economic abuse"]
+  },
+  {
+    "ArtNo": "HAR-NIRB-2013",
+    "Name": "Criminal Law (Amendment) Act",
+    "ArtDesc": "\"An Act to amend the Indian Penal Code, Indian Evidence Act, and Code of Criminal Procedure on laws related to sexual offenses.\" Known as Nirbhaya Act, passed after 2012 Delhi gang rape. Introduced death penalty for rape, acid attack provisions, and stalking as offenses.",
+    "Keywords": ["rape", "Nirbhaya", "sexual assault", "acid attack", "stalking", "criminal amendment", "evidence", "fast-track", "women safety", "death penalty"]
+  },
+  {
+    "ArtNo": "HAR-RAG-2009",
+    "Name": "UGC Regulations on Curbing Ragging in Higher Education",
+    "ArtDesc": "\"Regulations prohibiting ragging in all higher educational institutions under University Grants Commission.\" Formed following Supreme Court directives in Vishwa Jagriti Mission vs. Central Govt (2001) and Raghavan Committee recommendations. Mandates anti-ragging committees in all colleges.",
+    "Keywords": ["ragging", "UGC", "college", "students", "harassment", "education", "hostel", "freshers", "disciplinary", "campus"]
+  },
+  {
+    "ArtNo": "HAR-TG-2019",
+    "Name": "Transgender Persons (Protection of Rights) Act",
+    "ArtDesc": "\"An Act to provide for protection of rights of transgender persons and their welfare.\" Passed after NALSA v. Union of India (2014) Supreme Court judgment recognizing third gender. Prohibits discrimination in education, employment, healthcare. Came into force January 10, 2020.",
+    "Keywords": ["transgender", "LGBTQ", "rights", "discrimination", "identity", "equality", "welfare", "gender", "inclusion", "certificate"]
+  },
+  {
+    "ArtNo": "HAR-POCSO-2012",
+    "Name": "Protection of Children from Sexual Offences Act",
+    "ArtDesc": "\"An Act to protect children from sexual assault, harassment and pornography while safeguarding their interests at every stage.\" Known as POCSO, provides child-friendly procedures and mandatory reporting. Amended in 2019 to include death penalty for aggravated assault.",
+    "Keywords": ["children", "POCSO", "pedophilia", "abuse", "minors", "protection", "juvenile", "child rights", "predators", "mandatory reporting"]
+  },
+  {
+    "ArtNo": "HAR-POSH-2013",
+    "Name": "Sexual Harassment at Workplace Act",
+    "ArtDesc": "\"An Act to provide protection against sexual harassment of women at workplace and for prevention and redressal of complaints.\" Formed after Vishaka Guidelines (1997) by Supreme Court. Mandates Internal Complaints Committees in organizations with 10+ employees.",
+    "Keywords": ["workplace", "harassment", "#MeToo", "complaint", "redressal", "Vishaka", "ICC", "women", "employment", "prevention"]
+  },
+  {
+    "ArtNo": "PROP-TOPA-1882",
+    "Name": "Transfer of Property Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to the transfer of property by act of parties.\" Codifies rules for property sales, mortgages, leases, and gifts. Amended multiple times including 1929 and 2020. Forms basis for real estate transactions.",
+    "Keywords": ["property", "transfer", "sale", "mortgage", "lease", "conveyance", "title", "real estate", "ownership", "gift"]
+  },
+  {
+    "ArtNo": "PROP-REG-1908",
+    "Name": "Registration Act",
+    "ArtDesc": "\"An Act to consolidate the enactments relating to the registration of documents.\" Mandates registration of property transactions, wills, and certain agreements to prevent fraud. Provides framework for Registrar offices across India.",
+    "Keywords": ["registration", "documents", "property", "fraud", "stamp duty", "deeds", "sub-registrar", "encumbrance", "title", "notary"]
+  },
+  {
+    "ArtNo": "PROP-EASM-1882",
+    "Name": "Indian Easements Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to easements and licenses.\" Governs rights like right of way, light, water access. Defines 'dominant' and 'servient' heritage properties. Based on English common law principles.",
+    "Keywords": ["easement", "right of way", "property rights", "licenses", "dominant", "servient", "access", "heritage", "encroachment", "prescription"]
+  },
+  {
+    "ArtNo": "PROP-RFCA-2013",
+    "Name": "Right to Fair Compensation Act",
+    "ArtDesc": "\"An Act to ensure transparency in land acquisition while providing just compensation.\" Replaced 1894 colonial law after Nandigram protests. Mandates Social Impact Assessment and consent of 80% landowners. Effective from January 1, 2014.",
+    "Keywords": ["land acquisition", "compensation", "rehabilitation", "SIA", "farmers", "eminent domain", "resettlement", "R&R", "transparency", "consent"]
+  },
+  {
+    "ArtNo": "PROP-RERA-2016",
+    "Name": "Real Estate (Regulation and Development) Act",
+    "ArtDesc": "\"An Act to establish Real Estate Regulatory Authority for regulation of real estate sector.\" Known as RERA, protects homebuyers from builder delays and frauds. Requires project registration and escrow accounts. Implemented from May 1, 2017.",
+    "Keywords": ["RERA", "real estate", "builders", "homebuyers", "regulation", "apartment", "registration", "escrow", "delay", "authority"]
+  },
+  {
+    "ArtNo": "PROP-HSA-1956",
+    "Name": "Hindu Succession Act",
+    "ArtDesc": "\"An Act to amend and codify the law relating to intestate succession among Hindus.\" Gives equal inheritance rights to daughters (amended 2005). Governs partition, testamentary succession, and coparcenary rights. Based on Mitakshara school.",
+    "Keywords": ["inheritance", "succession", "Hindu", "property", "coparcenary", "will", "intestate", "daughters", "partition", "ancestral"]
+  },
+  {
+    "ArtNo": "PROP-MPL-1937",
+    "Name": "Muslim Personal Law (Shariat) Application Act",
+    "ArtDesc": "\"An Act to make provision for the application of the Muslim Personal Law to Muslims.\" Governs inheritance, marriage, divorce and charities according to Islamic jurisprudence. Distinguishes between Shia and Sunni succession rules.",
+    "Keywords": ["Muslim", "Shariat", "inheritance", "personal law", "succession", "Islamic", "Shia", "Sunni", "dower", "mehr"]
+  },
+  {
+    "ArtNo": "PROP-BEN-1988",
+    "Name": "Benami Transactions (Prohibition) Act",
+    "ArtDesc": "\"An Act to prohibit benami transactions and the right to recover property held benami.\" Amended in 2016 to strengthen enforcement. Targets black money and proxy ownership. Defines benami as property where owner isn't fund provider.",
+    "Keywords": ["benami", "black money", "property", "proxy", "ownership", "undisclosed", "confiscation", "enforcement", "income tax", "shell"]
+  },
+  {
+    "ArtNo": "PROP-ISTAMP-1899",
+    "Name": "Indian Stamp Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to Stamps.\" Governs stamp duties on legal documents across India. State amendments exist. Prevents validity of unstamped documents in courts. Last amended 2019.",
+    "Keywords": ["stamp duty", "documents", "registration", "fiscal", "revenue", "adjudication", "impounding", "instrument", "evasion", "valuation"]
+  },
+  {
+    "ArtNo": "PROP-TRUST-1882",
+    "Name": "Indian Trusts Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to Private Trusts and Trustees.\" Codifies rules for trust creation, trustee obligations, and beneficiary rights. Excludes public/charitable trusts. Based on English trust law principles.",
+    "Keywords": ["trust", "trustee", "beneficiary", "fiduciary", "private trust", "breach", "obligation", "property", "management", "settlement"]
+  },
+  {
+    "ArtNo": "TAX-ITA-1961",
+    "Name": "Income Tax Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to income-tax and super-tax.\" Comprehensive tax legislation covering assessment, collection, evasion. Amended annually through Finance Acts. Introduced TDS, advance tax, and PAN system.",
+    "Keywords": ["income tax", "taxation", "assessment", "TDS", "PAN", "return", "evasion", "deduction", "finance", "revenue"]
+  },
+  {
+    "ArtNo": "TAX-CGST-2017",
+    "Name": "Central Goods and Services Tax Act",
+    "ArtDesc": "\"An Act to make provision for levy and collection of tax on intra-State supply of goods or services.\" Part of GST regime replacing multiple indirect taxes. Defines CGST rates, input tax credit, and compliance procedures. Effective July 1, 2017.",
+    "Keywords": ["GST", "CGST", "tax", "indirect tax", "supply", "invoice", "input credit", "HSN", "composition", "GSTN"]
+  },
+  {
+    "ArtNo": "TAX-IGST-2017",
+    "Name": "Integrated Goods and Services Tax Act",
+    "ArtDesc": "\"An Act to make provision for levy and collection of tax on inter-State supply of goods or services.\" Governs IGST for transactions between states. Implements destination-based taxation principle. Coordinated through GST Council.",
+    "Keywords": ["GST", "IGST", "interstate", "supply", "import", "export", "place of supply", "zero-rated", "GST Council", "destination"]
+  },
+  {
+    "ArtNo": "TAX-CUST-1962",
+    "Name": "Customs Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to customs.\" Regulates imports/exports, duties, prohibitions, and smuggling prevention. Empowers customs officers for inspection, seizure, and arrest. Frequently amended for tariff changes.",
+    "Keywords": ["customs", "import", "export", "duty", "smuggling", "tariff", "baggage", "valuation", "prohibited", "contraband"]
+  },
+  {
+    "ArtNo": "TAX-EXC-1944",
+    "Name": "Central Excise Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to Central Duties of Excise.\" Levied on manufacture of goods in India. Largely subsumed under GST but still applicable to petroleum, tobacco. Known for CENVAT credit system.",
+    "Keywords": ["excise", "manufacture", "factory", "CENVAT", "duty", "removal", "warehouse", "SSI", "tariff", "adjudication"]
+  },
+  {
+    "ArtNo": "TAX-FIN-Annual",
+    "Name": "Finance Act",
+    "ArtDesc": "\"An Act to give effect to the financial proposals of the Central Government.\" Presented annually with Budget to implement tax changes, allocations and economic policies. Contains non-tax provisions too. Known as 'Money Bill' under Article 110.",
+    "Keywords": ["budget", "tax", "finance bill", "amendment", "fiscal", "allocation", "rates", "economy", "subsidy", "appropriation"]
+  },
+  {
+    "ArtNo": "TAX-BM-2015",
+    "Name": "Black Money Act",
+    "ArtDesc": "\"An Act to deal with undisclosed foreign income and assets.\" Full title: Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act. Provides stringent penalties including 10-year jail term. Requires mandatory disclosure.",
+    "Keywords": ["black money", "undisclosed", "foreign assets", "tax evasion", "overseas", "amnesty", "PAN", "repatriation", "confiscation", "beneficial owner"]
+  },
+  {
+    "ArtNo": "TAX-PBPT-1988",
+    "Name": "Prohibition of Benami Property Transactions Act",
+    "ArtDesc": "\"An Act to prohibit benami transactions and confer right to confiscate benami properties.\" Strengthened through 2016 amendment. Defines benamidar, beneficial owner. Establishes Adjudicating Authority and Appellate Tribunal.",
+    "Keywords": ["benami", "property", "confiscation", "adjudication", "show cause", "attachment", "beneficial owner", "proceeds", "unaccounted", "shell entity"]
+  },
+  {
+    "ArtNo": "TAX-STT-2004",
+    "Name": "Securities Transaction Tax",
+    "ArtDesc": "\"Tax levied on transactions in securities through recognized stock exchanges.\" Introduced through Finance Act 2004 replacing traditional capital gains tax. Covers equities, derivatives, mutual funds. Collected at source by brokers.",
+    "Keywords": ["STT", "securities", "stock exchange", "equity", "derivatives", "tax", "broker", "transaction", "capital gains", "settlement"]
+  },
+  {
+    "ArtNo": "TAX-EL-2016",
+    "Name": "Equalization Levy",
+    "ArtDesc": "\"Tax on specified digital services provided by non-residents without physical presence.\" Introduced via Finance Act 2016 targeting companies like Google, Facebook. Amended in 2020 to cover e-commerce supplies (2% levy).",
+    "Keywords": ["equalization", "digital tax", "e-commerce", "non-resident", "online", "advertising", "B2B", "FAANG", "withholding", "OECD"]
+  }
+],
+[
+  {
+    "ArtNo": "FEMA-1999",
+    "Name": "Foreign Exchange Management Act, 1999",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to foreign exchange with the objective of facilitating external trade and payments and for promoting the orderly development and maintenance of foreign exchange market in India.\" Passed in response to the liberalization of India’s economy, it replaced the older FERA to shift from exchange control to exchange management under RBI oversight. Effect came into force on 1 June 2000.",
+    "Keywords": ["forex", "external trade", "RBI", "payments", "international", "remittance", "currency", "market", "exchange", "liberalisation"]
+  },
+  {
+    "ArtNo": "FACT-1948",
+    "Name": "Factories Act, 1948",
+    "ArtDesc": "\"An Act to consolidate and amend the law regulating labour in factories.\" Enacted to protect workers’ health, safety and welfare by defining conditions like working hours, leave, adult/child labor, and hazard control. Came into force from April 1, 1949, forming the basis for modern workplace safety.",
+    "Keywords": ["workers", "safety", "health", "leaves", "hours", "child labour", "factory", "inspector", "welfare", "occupier"]
+  },
+  {
+    "ArtNo": "EPA-1986",
+    "Name": "Environment (Protection) Act, 1986",
+    "ArtDesc": "\"An Act to provide for the protection and improvement of environment and for matters connected therewith.\" Enacted under Article 253 after the 1972 Stockholm Conference and Bhopal disaster. This umbrella law empowers the Central Government to regulate pollution, set standards, and handle hazardous substances nationwide.",
+    "Keywords": ["environment", "pollution", "air", "water", "waste", "hazardous", "Bhopal", "safety", "standards", "laboratory"]
+  },
+  {
+    "ArtNo": "PASSPT-1967",
+    "Name": "Passports Act, 1967",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to passports and travel documents.\" Enacted to regulate issuance and revocation of passports and travel documents to Indian citizens. It empowers authorities to prohibit travel in public interest and was shaped in light of global mobility concerns post-independence.",
+    "Keywords": ["passport", "travel", "citizenship", "ID", "visa", "immigration", "border", "documents", "application", "revocation"]
+  },
+  {
+    "ArtNo": "EXTRD-1962",
+    "Name": "Extradition Act, 1962",
+    "ArtDesc": "\"An Act to make provision for the extradition of offenders to and from territories outside India.\" Designed to enable cooperation with other countries for returning accused persons, based on treaties. It replaced colonial extradition law and continues to support international crime prevention.",
+    "Keywords": ["crime", "police", "international", "treaty", "fugitive", "arrest", "justice", "court", "return", "legal"]
+  },
+  {
+    "ArtNo": "AIRC-1934",
+    "Name": "Aircraft Act, 1934",
+    "ArtDesc": "\"An Act to make special provisions for the purposes of the Convention on International Civil Aviation signed at Chicago on 7th December 1944.\" Created to regulate aircraft operation, safety, licensing of crew, and airworthiness standards. It sets framework for civil aviation regulation in India.",
+    "Keywords": ["flight", "airplane", "pilot", "airport", "safety", "license", "air traffic", "regulation", "civil aviation", "airline"]
+  },
+  {
+    "ArtNo": "MZONE-1976",
+    "Name": "Maritime Zones of India Act, 1976",
+    "ArtDesc": "\"An Act to define the maritime zones of India and to provide for the jurisdiction of India in such zones.\" Implemented UNCLOS provisions to define territorial waters, contiguous zone, exclusive economic zone and continental shelf — giving India legal control over its marine resources.",
+    "Keywords": ["sea", "water", "fishing", "navy", "survey", "oil", "jurisdiction", "territory", "resources", "coast"]
+  },
+  {
+    "ArtNo": "ANTHJ-2016",
+    "Name": "Anti-Hijacking Act, 2016",
+    "ArtDesc": "\"An Act to prohibit and punish hijacking, and for matters connected therewith or incidental thereto.\" Enacted to implement the Beijing Convention and Paris Protocols, this law strengthens penalties and guidelines for preventing aircraft hijackings and protecting civil aviation.",
+    "Keywords": ["hijack", "airplane", "security", "pilot", "terror", "crime", "punishment", "air safety", "airport", "terrorism"]
+  },
+  {
+    "ArtNo": "WMD-2005",
+    "Name": "Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005",
+    "ArtDesc": "\"An Act to give effect to the Agreement on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction.\" Designed to curb proliferation of chemical, biological, nuclear weapons and related technologies in line with UN treaties, with strict penalties.",
+    "Keywords": ["chemical weapons", "nuclear", "biological", "terrorism", "proliferation", "security", "UN", "treaty", "crime", "weapon"]
+  },
+  {
+    "ArtNo": "IMF-1945",
+    "Name": "International Monetary Fund Act, 1945",
+    "ArtDesc": "\"An Act to give effect to the Articles of Agreement of the International Monetary Fund.\" Enables India to be a member of IMF, regulate financial obligations, contributions, loans, and reporting – aligning India’s balance-of-payments policies with international standards.",
+    "Keywords": ["IMF", "money", "bop", "loans", "currency", "fund", "exchange", "finance", "development", "economy"]
+  },
+  {
+    "ArtNo": "FCRA-2010",
+    "Name": "Foreign Contribution (Regulation) Act, 2010",
+    "ArtDesc": "\"An Act to consolidate the law relating to the acceptance and utilisation of foreign contributions and for matters connected therewith.\" Introduced to promote transparency in funding of NGOs and groups receiving foreign funds, to ensure national interest and security.",
+    "Keywords": ["ngo", "foreign money", "donation", "funds", "registration", "government", "security", "charity", "transparency", "audit"]
+  },
+  {
+    "ArtNo": "DIPL-1972",
+    "Name": "Diplomatic Relations Act, 1972",
+    "ArtDesc": "\"An Act to enable effect to be given to the Convention on Diplomatic Relations.\" Enacted to implement the Vienna Convention on Diplomatic Relations, clarifying privileges, immunities, and functions of diplomatic agents posted in India.",
+    "Keywords": ["embassy", "ambassador", "visa", "privilege", "diplomatic", "immunity", "international", "treaty", "foreign", "mission"]
+  },
+  {
+    "ArtNo": "WORK-FACT-1948",
+    "Name": "Factories Act, 1948",
+    "ArtDesc": "\"An Act to consolidate and amend the law regulating labour in factories.\" It ensures health, safety, welfare, working hours, and leave of workers. This act was framed to protect factory workers post-Independence from hazardous working conditions.",
+    "Keywords": ["factory", "labour", "workplace", "safety", "shift", "leave", "hazard", "industrial", "accident", "health"]
+  },
+  {
+    "ArtNo": "WORK-SHOP-State",
+    "Name": "Shops and Establishments Act",
+    "ArtDesc": "\"An Act to regulate conditions of work and employment in shops, commercial establishments, restaurants, theatres, etc.\" Applied individually by states to govern opening hours, holidays, overtime, and registration of businesses.",
+    "Keywords": ["shop", "timing", "holiday", "store", "registration", "labour", "employees", "salary", "license", "shift"]
+  },
+  {
+    "ArtNo": "WORK-MAT-1961",
+    "Name": "Maternity Benefit Act, 1961",
+    "ArtDesc": "\"An Act to regulate the employment of women in certain establishments for certain periods before and after childbirth and to provide for maternity benefit.\" It ensures paid leave, job protection, and nursing breaks for female employees.",
+    "Keywords": ["maternity", "pregnancy", "mother", "leave", "child", "women", "work", "delivery", "benefit", "baby"]
+  },
+  {
+    "ArtNo": "WORK-POSH-2013",
+    "Name": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "ArtDesc": "\"An Act to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints.\" Born from the Vishaka Guidelines (1997), it mandates Internal Complaints Committees and grievance redressal.",
+    "Keywords": ["harassment", "women", "office", "work", "complaint", "touch", "boss", "IC", "POSH", "abuse"]
+  },
+  {
+    "ArtNo": "WORK-IE-1946",
+    "Name": "Industrial Employment (Standing Orders) Act, 1946",
+    "ArtDesc": "\"An Act to require employers to define with sufficient precision the conditions of employment.\" It brings uniformity in service conditions related to classification, termination, discipline, holidays, and misconduct.",
+    "Keywords": ["employment", "rules", "discipline", "conditions", "workers", "job", "regulation", "termination", "service", "leave"]
+  },
+  {
+    "ArtNo": "WORK-ESI-1948",
+    "Name": "Employees' State Insurance Act, 1948",
+    "ArtDesc": "\"An Act to provide for certain benefits to employees in case of sickness, maternity and employment injury.\" It established ESIC to administer health insurance and medical care for workers and their dependents.",
+    "Keywords": ["insurance", "esi", "sick", "injury", "benefit", "workers", "treatment", "health", "salary", "medical"]
+  },
+  {
+    "ArtNo": "WORK-GRAT-1972",
+    "Name": "Payment of Gratuity Act, 1972",
+    "ArtDesc": "\"An Act to provide for a scheme for the payment of gratuity to employees engaged in factories, mines, oilfields, etc.\" It rewards long-term service and ensures monetary benefits on retirement, resignation, or death.",
+    "Keywords": ["gratuity", "retirement", "bonus", "leave", "payment", "salary", "benefit", "job end", "years", "service"]
+  },
+  {
+    "ArtNo": "WORK-ID-1947",
+    "Name": "Industrial Disputes Act, 1947",
+    "ArtDesc": "\"An Act to make provision for the investigation and settlement of industrial disputes.\" It defines strikes, lockouts, retrenchment, and lays out dispute resolution mechanisms like Labour Courts and tribunals.",
+    "Keywords": ["strike", "dispute", "labour", "court", "shutdown", "protest", "layoff", "union", "industry", "settlement"]
+  },
+  {
+    "ArtNo": "WORK-EPF-1952",
+    "Name": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "ArtDesc": "\"An Act to provide for the institution of provident funds, pension fund and deposit-linked insurance fund for employees.\" Managed by EPFO, this ensures long-term savings and social security for organized sector workers.",
+    "Keywords": ["pf", "epf", "retirement", "savings", "pension", "salary", "fund", "job", "insurance", "benefit"]
+  },
+  {
+    "ArtNo": "WORK-OSH-2020",
+    "Name": "Occupational Safety, Health and Working Conditions Code, 2020",
+    "ArtDesc": "\"A Code to consolidate and amend the laws regulating the occupational safety, health and working conditions of the persons employed.\" It merges 13 old labour laws including Factories Act, Mines Act, and others under one umbrella.",
+    "Keywords": ["safety", "health", "conditions", "workers", "labour", "code", "employment", "rules", "factory", "job"]
+  },
+  {
+    "ArtNo": "HAR-IPC-354",
+    "Name": "Indian Penal Code, Section 354",
+    "ArtDesc": "\"Assault or criminal force to woman with intent to outrage her modesty.—Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment...\" Enacted as part of the original IPC in 1860 to protect women's dignity. This section was notably strengthened after the 2012 Nirbhaya case.",
+    "Keywords": ["assault", "women", "modesty", "criminal force", "outrage", "harassment", "IPC", "dignity", "protection", "gender violence"]
+  },
+  {
+    "ArtNo": "HAR-IRW-1986",
+    "Name": "Indecent Representation of Women (Prohibition) Act",
+    "ArtDesc": "\"An Act to prohibit indecent representation of women through advertisements or in publications, writings, paintings, figures or in any other manner.\" Passed to combat objectification of women in media after recommendations from the Committee on Status of Women (1974). Came into force on October 2, 1987.",
+    "Keywords": ["women", "representation", "advertisements", "media", "objectification", "prohibition", "publications", "decency", "gender equality", "depiction"]
+  },
+  {
+    "ArtNo": "HAR-POA-1989",
+    "Name": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act",
+    "ArtDesc": "\"An Act to prevent the commission of offences of atrocities against the members of Scheduled Castes and Scheduled Tribes.\" Enacted to address persistent caste-based violence following the Mandal Commission report. Provides special protections and fast-track courts. Rules framed in 1995.",
+    "Keywords": ["caste", "atrocities", "SC/ST", "discrimination", "protection", "social justice", "reservation", "violence", "marginalized", "equality"]
+  },
+  {
+    "ArtNo": "HAR-IT-66E",
+    "Name": "Information Technology Act, Section 66E",
+    "ArtDesc": "\"Punishment for violation of privacy.—Whoever intentionally captures, publishes or transmits the image of a private area of any person without his or her consent... shall be punished with imprisonment.\" Added through 2008 amendment after rising cyber harassment cases. Enforced from October 27, 2009.",
+    "Keywords": ["cybercrime", "privacy", "voyeurism", "IT Act", "digital", "harassment", "consent", "images", "technology", "social media"]
+  },
+  {
+    "ArtNo": "HAR-DV-2005",
+    "Name": "Protection of Women from Domestic Violence Act",
+    "ArtDesc": "\"An Act to provide for more effective protection of the rights of women guaranteed under the Constitution who are victims of violence of any kind occurring within the family.\" First comprehensive law recognizing domestic violence as legal offense. Came into force October 26, 2006.",
+    "Keywords": ["domestic", "violence", "women", "protection", "marital", "abuse", "family", "restraining order", "shelter", "economic abuse"]
+  },
+  {
+    "ArtNo": "HAR-NIRB-2013",
+    "Name": "Criminal Law (Amendment) Act",
+    "ArtDesc": "\"An Act to amend the Indian Penal Code, Indian Evidence Act, and Code of Criminal Procedure on laws related to sexual offenses.\" Known as Nirbhaya Act, passed after 2012 Delhi gang rape. Introduced death penalty for rape, acid attack provisions, and stalking as offenses.",
+    "Keywords": ["rape", "Nirbhaya", "sexual assault", "acid attack", "stalking", "criminal amendment", "evidence", "fast-track", "women safety", "death penalty"]
+  },
+  {
+    "ArtNo": "HAR-RAG-2009",
+    "Name": "UGC Regulations on Curbing Ragging in Higher Education",
+    "ArtDesc": "\"Regulations prohibiting ragging in all higher educational institutions under University Grants Commission.\" Formed following Supreme Court directives in Vishwa Jagriti Mission vs. Central Govt (2001) and Raghavan Committee recommendations. Mandates anti-ragging committees in all colleges.",
+    "Keywords": ["ragging", "UGC", "college", "students", "harassment", "education", "hostel", "freshers", "disciplinary", "campus"]
+  },
+  {
+    "ArtNo": "HAR-TG-2019",
+    "Name": "Transgender Persons (Protection of Rights) Act",
+    "ArtDesc": "\"An Act to provide for protection of rights of transgender persons and their welfare.\" Passed after NALSA v. Union of India (2014) Supreme Court judgment recognizing third gender. Prohibits discrimination in education, employment, healthcare. Came into force January 10, 2020.",
+    "Keywords": ["transgender", "LGBTQ", "rights", "discrimination", "identity", "equality", "welfare", "gender", "inclusion", "certificate"]
+  },
+  {
+    "ArtNo": "HAR-POCSO-2012",
+    "Name": "Protection of Children from Sexual Offences Act",
+    "ArtDesc": "\"An Act to protect children from sexual assault, harassment and pornography while safeguarding their interests at every stage.\" Known as POCSO, provides child-friendly procedures and mandatory reporting. Amended in 2019 to include death penalty for aggravated assault.",
+    "Keywords": ["children", "POCSO", "pedophilia", "abuse", "minors", "protection", "juvenile", "child rights", "predators", "mandatory reporting"]
+  },
+  {
+    "ArtNo": "HAR-POSH-2013",
+    "Name": "Sexual Harassment at Workplace Act",
+    "ArtDesc": "\"An Act to provide protection against sexual harassment of women at workplace and for prevention and redressal of complaints.\" Formed after Vishaka Guidelines (1997) by Supreme Court. Mandates Internal Complaints Committees in organizations with 10+ employees.",
+    "Keywords": ["workplace", "harassment", "#MeToo", "complaint", "redressal", "Vishaka", "ICC", "women", "employment", "prevention"]
+  },
+  {
+    "ArtNo": "PROP-TOPA-1882",
+    "Name": "Transfer of Property Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to the transfer of property by act of parties.\" Codifies rules for property sales, mortgages, leases, and gifts. Amended multiple times including 1929 and 2020. Forms basis for real estate transactions.",
+    "Keywords": ["property", "transfer", "sale", "mortgage", "lease", "conveyance", "title", "real estate", "ownership", "gift"]
+  },
+  {
+    "ArtNo": "PROP-REG-1908",
+    "Name": "Registration Act",
+    "ArtDesc": "\"An Act to consolidate the enactments relating to the registration of documents.\" Mandates registration of property transactions, wills, and certain agreements to prevent fraud. Provides framework for Registrar offices across India.",
+    "Keywords": ["registration", "documents", "property", "fraud", "stamp duty", "deeds", "sub-registrar", "encumbrance", "title", "notary"]
+  },
+  {
+    "ArtNo": "PROP-EASM-1882",
+    "Name": "Indian Easements Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to easements and licenses.\" Governs rights like right of way, light, water access. Defines 'dominant' and 'servient' heritage properties. Based on English common law principles.",
+    "Keywords": ["easement", "right of way", "property rights", "licenses", "dominant", "servient", "access", "heritage", "encroachment", "prescription"]
+  },
+  {
+    "ArtNo": "PROP-RFCA-2013",
+    "Name": "Right to Fair Compensation Act",
+    "ArtDesc": "\"An Act to ensure transparency in land acquisition while providing just compensation.\" Replaced 1894 colonial law after Nandigram protests. Mandates Social Impact Assessment and consent of 80% landowners. Effective from January 1, 2014.",
+    "Keywords": ["land acquisition", "compensation", "rehabilitation", "SIA", "farmers", "eminent domain", "resettlement", "R&R", "transparency", "consent"]
+  },
+  {
+    "ArtNo": "PROP-RERA-2016",
+    "Name": "Real Estate (Regulation and Development) Act",
+    "ArtDesc": "\"An Act to establish Real Estate Regulatory Authority for regulation of real estate sector.\" Known as RERA, protects homebuyers from builder delays and frauds. Requires project registration and escrow accounts. Implemented from May 1, 2017.",
+    "Keywords": ["RERA", "real estate", "builders", "homebuyers", "regulation", "apartment", "registration", "escrow", "delay", "authority"]
+  },
+  {
+    "ArtNo": "PROP-HSA-1956",
+    "Name": "Hindu Succession Act",
+    "ArtDesc": "\"An Act to amend and codify the law relating to intestate succession among Hindus.\" Gives equal inheritance rights to daughters (amended 2005). Governs partition, testamentary succession, and coparcenary rights. Based on Mitakshara school.",
+    "Keywords": ["inheritance", "succession", "Hindu", "property", "coparcenary", "will", "intestate", "daughters", "partition", "ancestral"]
+  },
+  {
+    "ArtNo": "PROP-MPL-1937",
+    "Name": "Muslim Personal Law (Shariat) Application Act",
+    "ArtDesc": "\"An Act to make provision for the application of the Muslim Personal Law to Muslims.\" Governs inheritance, marriage, divorce and charities according to Islamic jurisprudence. Distinguishes between Shia and Sunni succession rules.",
+    "Keywords": ["Muslim", "Shariat", "inheritance", "personal law", "succession", "Islamic", "Shia", "Sunni", "dower", "mehr"]
+  },
+  {
+    "ArtNo": "PROP-BEN-1988",
+    "Name": "Benami Transactions (Prohibition) Act",
+    "ArtDesc": "\"An Act to prohibit benami transactions and the right to recover property held benami.\" Amended in 2016 to strengthen enforcement. Targets black money and proxy ownership. Defines benami as property where owner isn't fund provider.",
+    "Keywords": ["benami", "black money", "property", "proxy", "ownership", "undisclosed", "confiscation", "enforcement", "income tax", "shell"]
+  },
+  {
+    "ArtNo": "PROP-ISTAMP-1899",
+    "Name": "Indian Stamp Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to Stamps.\" Governs stamp duties on legal documents across India. State amendments exist. Prevents validity of unstamped documents in courts. Last amended 2019.",
+    "Keywords": ["stamp duty", "documents", "registration", "fiscal", "revenue", "adjudication", "impounding", "instrument", "evasion", "valuation"]
+  },
+  {
+    "ArtNo": "PROP-TRUST-1882",
+    "Name": "Indian Trusts Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to Private Trusts and Trustees.\" Codifies rules for trust creation, trustee obligations, and beneficiary rights. Excludes public/charitable trusts. Based on English trust law principles.",
+    "Keywords": ["trust", "trustee", "beneficiary", "fiduciary", "private trust", "breach", "obligation", "property", "management", "settlement"]
+  },
+  {
+    "ArtNo": "TAX-ITA-1961",
+    "Name": "Income Tax Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to income-tax and super-tax.\" Comprehensive tax legislation covering assessment, collection, evasion. Amended annually through Finance Acts. Introduced TDS, advance tax, and PAN system.",
+    "Keywords": ["income tax", "taxation", "assessment", "TDS", "PAN", "return", "evasion", "deduction", "finance", "revenue"]
+  },
+  {
+    "ArtNo": "TAX-CGST-2017",
+    "Name": "Central Goods and Services Tax Act",
+    "ArtDesc": "\"An Act to make provision for levy and collection of tax on intra-State supply of goods or services.\" Part of GST regime replacing multiple indirect taxes. Defines CGST rates, input tax credit, and compliance procedures. Effective July 1, 2017.",
+    "Keywords": ["GST", "CGST", "tax", "indirect tax", "supply", "invoice", "input credit", "HSN", "composition", "GSTN"]
+  },
+  {
+    "ArtNo": "TAX-IGST-2017",
+    "Name": "Integrated Goods and Services Tax Act",
+    "ArtDesc": "\"An Act to make provision for levy and collection of tax on inter-State supply of goods or services.\" Governs IGST for transactions between states. Implements destination-based taxation principle. Coordinated through GST Council.",
+    "Keywords": ["GST", "IGST", "interstate", "supply", "import", "export", "place of supply", "zero-rated", "GST Council", "destination"]
+  },
+  {
+    "ArtNo": "TAX-CUST-1962",
+    "Name": "Customs Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to customs.\" Regulates imports/exports, duties, prohibitions, and smuggling prevention. Empowers customs officers for inspection, seizure, and arrest. Frequently amended for tariff changes.",
+    "Keywords": ["customs", "import", "export", "duty", "smuggling", "tariff", "baggage", "valuation", "prohibited", "contraband"]
+  },
+  {
+    "ArtNo": "TAX-EXC-1944",
+    "Name": "Central Excise Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to Central Duties of Excise.\" Levied on manufacture of goods in India. Largely subsumed under GST but still applicable to petroleum, tobacco. Known for CENVAT credit system.",
+    "Keywords": ["excise", "manufacture", "factory", "CENVAT", "duty", "removal", "warehouse", "SSI", "tariff", "adjudication"]
+  },
+  {
+    "ArtNo": "TAX-FIN-Annual",
+    "Name": "Finance Act",
+    "ArtDesc": "\"An Act to give effect to the financial proposals of the Central Government.\" Presented annually with Budget to implement tax changes, allocations and economic policies. Contains non-tax provisions too. Known as 'Money Bill' under Article 110.",
+    "Keywords": ["budget", "tax", "finance bill", "amendment", "fiscal", "allocation", "rates", "economy", "subsidy", "appropriation"]
+  },
+  {
+    "ArtNo": "TAX-BM-2015",
+    "Name": "Black Money Act",
+    "ArtDesc": "\"An Act to deal with undisclosed foreign income and assets.\" Full title: Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act. Provides stringent penalties including 10-year jail term. Requires mandatory disclosure.",
+    "Keywords": ["black money", "undisclosed", "foreign assets", "tax evasion", "overseas", "amnesty", "PAN", "repatriation", "confiscation", "beneficial owner"]
+  },
+  {
+    "ArtNo": "TAX-PBPT-1988",
+    "Name": "Prohibition of Benami Property Transactions Act",
+    "ArtDesc": "\"An Act to prohibit benami transactions and confer right to confiscate benami properties.\" Strengthened through 2016 amendment. Defines benamidar, beneficial owner. Establishes Adjudicating Authority and Appellate Tribunal.",
+    "Keywords": ["benami", "property", "confiscation", "adjudication", "show cause", "attachment", "beneficial owner", "proceeds", "unaccounted", "shell entity"]
+  },
+  {
+    "ArtNo": "TAX-STT-2004",
+    "Name": "Securities Transaction Tax",
+    "ArtDesc": "\"Tax levied on transactions in securities through recognized stock exchanges.\" Introduced through Finance Act 2004 replacing traditional capital gains tax. Covers equities, derivatives, mutual funds. Collected at source by brokers.",
+    "Keywords": ["STT", "securities", "stock exchange", "equity", "derivatives", "tax", "broker", "transaction", "capital gains", "settlement"]
+  },
+  {
+    "ArtNo": "TAX-EL-2016",
+    "Name": "Equalization Levy",
+    "ArtDesc": "\"Tax on specified digital services provided by non-residents without physical presence.\" Introduced via Finance Act 2016 targeting companies like Google, Facebook. Amended in 2020 to cover e-commerce supplies (2% levy).",
+    "Keywords": ["equalization", "digital tax", "e-commerce", "non-resident", "online", "advertising", "B2B", "FAANG", "withholding", "OECD"]
+  },
+  {
+    "ArtNo": "LAB-MW-1948",
+    "Name": "Minimum Wages Act, 1948",
+    "ArtDesc": "An Act to fix minimum rates of wages in certain employments. It ensures that workers are paid fair and standard wages as notified by the appropriate government.",
+    "Keywords": ["wages", "minimum pay", "workers", "labour", "employment", "salary", "job", "rights", "workplace", "money"]
+  },
+  {
+    "ArtNo": "LAB-PW-1936",
+    "Name": "Payment of Wages Act, 1936",
+    "ArtDesc": "An Act to regulate the payment of wages to certain classes of employed persons. It aims to ensure timely payment without unauthorized deductions.",
+    "Keywords": ["salary", "payment", "delay", "deduction", "money", "labour", "employees", "work", "timely pay"]
+  },
+  {
+    "ArtNo": "LAB-CLRA-1970",
+    "Name": "Contract Labour (Regulation and Abolition) Act, 1970",
+    "ArtDesc": "An Act to regulate the employment of contract labour and to provide for its abolition in certain circumstances.",
+    "Keywords": ["contract", "labour", "temporary", "outsourcing", "workers", "regulation", "company", "job", "contractor"]
+  },
+  {
+    "ArtNo": "LAB-APPR-1961",
+    "Name": "Apprentices Act, 1961",
+    "ArtDesc": "An Act to regulate and control the training of apprentices in various trades and ensure that they get proper industry exposure.",
+    "Keywords": ["training", "apprentice", "intern", "job", "industry", "skills", "labour", "experience"]
+  },
+  {
+    "ArtNo": "LAB-BOCW-1996",
+    "Name": "Building and Other Construction Workers Welfare Cess Act, 1996",
+    "ArtDesc": "An Act to levy and collect cess on the cost of construction for the welfare of construction workers.",
+    "Keywords": ["construction", "workers", "welfare", "labour", "buildings", "cess", "tax", "job"]
+  },
+  {
+    "ArtNo": "LAB-ISM-1979",
+    "Name": "Inter-State Migrant Workmen Act, 1979",
+    "ArtDesc": "An Act to regulate the conditions of service of inter-state migrant workmen and protect their rights.",
+    "Keywords": ["migrant", "labour", "travel", "work", "job", "rights", "protection", "state"]
+  },
+  {
+    "ArtNo": "LAB-CLP-1986",
+    "Name": "Child Labour (Prohibition and Regulation) Act, 1986",
+    "ArtDesc": "An Act to prohibit the engagement of children in certain employments and to regulate the conditions of work of children.",
+    "Keywords": ["child", "labour", "ban", "work", "kids", "employment", "protection", "school"]
+  },
+  {
+    "ArtNo": "LAB-ER-1976",
+    "Name": "Equal Remuneration Act, 1976",
+    "ArtDesc": "An Act to provide for the payment of equal remuneration to men and women workers for the same work or work of a similar nature.",
+    "Keywords": ["equal pay", "gender", "salary", "job", "fairness", "men", "women", "labour"]
+  },
+  {
+    "ArtNo": "LAB-WJ-1955",
+    "Name": "Working Journalists and Other Newspaper Employees Act, 1955",
+    "ArtDesc": "An Act to regulate the conditions of service of working journalists and newspaper employees.",
+    "Keywords": ["journalist", "media", "news", "employee", "job", "rights", "pay", "editor"]
+  },
+  {
+    "ArtNo": "LAB-PL-1951",
+    "Name": "Plantations Labour Act, 1951",
+    "ArtDesc": "An Act to provide for the welfare of labour and to regulate the conditions of work in plantations.",
+    "Keywords": ["plantation", "labour", "farm", "worker", "tea estate", "rights", "welfare", "job"]
+  },
+  {
+    "ArtNo": "CONS-CPA-2019",
+    "Name": "Consumer Protection Act, 2019",
+    "ArtDesc": "An Act to provide for protection of the interests of consumers and establish authorities for timely and effective settlement of disputes.",
+    "Keywords": ["consumer", "rights", "refund", "return", "shop", "product", "customer", "complaint"]
+  },
+  {
+    "ArtNo": "CONS-BIS-2016",
+    "Name": "Bureau of Indian Standards Act, 2016",
+    "ArtDesc": "An Act to establish the Bureau of Indian Standards as the National Standards Body of India for setting quality benchmarks.",
+    "Keywords": ["standards", "quality", "products", "testing", "certification", "mark", "ISI"]
+  },
+  {
+    "ArtNo": "CONS-LM-2009",
+    "Name": "Legal Metrology Act, 2009",
+    "ArtDesc": "An Act to establish and enforce standards of weights and measures and regulate trade and commerce in goods sold or distributed by weight, measure or number.",
+    "Keywords": ["measurement", "weights", "scale", "balance", "products", "fair trade", "quantity"]
+  },
+  {
+    "ArtNo": "CONS-FSS-2006",
+    "Name": "Food Safety and Standards Act, 2006",
+    "ArtDesc": "An Act to consolidate the laws relating to food and establish the Food Safety and Standards Authority of India (FSSAI) for regulating food safety.",
+    "Keywords": ["food", "safety", "health", "products", "expiry", "ingredients", "contamination"]
+  },
+  {
+    "ArtNo": "CONS-DC-1940",
+    "Name": "Drugs and Cosmetics Act, 1940",
+    "ArtDesc": "An Act to regulate the import, manufacture, distribution and sale of drugs and cosmetics.",
+    "Keywords": ["medicine", "drugs", "cosmetics", "safety", "approval", "pharmacy", "treatment"]
+  },
+  {
+    "ArtNo": "CONS-MRTP-1969",
+    "Name": "Monopolies and Restrictive Trade Practices Act, 1969",
+    "ArtDesc": "An Act to prevent monopolistic, restrictive and unfair trade practices.",
+    "Keywords": ["monopoly", "trade", "business", "unfair", "restriction", "competition", "law"]
+  },
+  {
+    "ArtNo": "CONS-COMP-2002",
+    "Name": "Competition Act, 2002",
+    "ArtDesc": "An Act to prevent practices having adverse effect on competition and to promote and sustain competition in markets.",
+    "Keywords": ["competition", "fair trade", "business", "market", "antitrust", "law"]
+  },
+  {
+    "ArtNo": "CONS-RERA-2016",
+    "Name": "Real Estate (Regulation and Development) Act Rules, 2016",
+    "ArtDesc": "Rules framed under RERA to regulate real estate sector and protect home buyers.",
+    "Keywords": ["real estate", "housing", "home", "property", "builder", "buyer", "complaint"]
+  },
+  {
+    "ArtNo": "CONS-ECOM-2020",
+    "Name": "E-Commerce Rules, 2020",
+    "ArtDesc": "Rules under Consumer Protection Act, 2019 to regulate e-commerce activities in India.",
+    "Keywords": ["online shopping", "ecommerce", "refund", "delivery", "product", "consumer"]
+  },
+  {
+    "ArtNo": "ENV-EPA-1986",
+    "Name": "Environment (Protection) Act, 1986",
+    "ArtDesc": "An Act to provide for the protection and improvement of the environment.",
+    "Keywords": ["environment", "pollution", "air", "water", "waste", "green", "law"]
+  },
+  {
+    "ArtNo": "CRIM-IPC-1860",
+    "Name": "Indian Penal Code",
+    "ArtDesc": "\"The Indian Penal Code is the official criminal code of India covering all substantive aspects of criminal law.\" Enacted during British rule in 1860, it defines crimes and their punishments. Came into force on January 1, 1862, and remains the primary criminal statute with numerous amendments reflecting societal changes.",
+    "Keywords": ["criminal", "offenses", "punishment", "IPC", "bailable", "non-bailable", "cognizable", "fine", "imprisonment", "culpable", "crimes", "law"]
+  },
+  {
+    "ArtNo": "CRIM-CrPC-1973",
+    "Name": "Code of Criminal Procedure",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to Criminal Procedure.\" Governs administration of substantive criminal law in India. Came into force April 1, 1974, establishing procedures for arrest, bail, investigation, and trial. Amended multiple times including significant 2013 changes after Nirbhaya case.",
+    "Keywords": ["CrPC", "procedure", "trial", "bail", "FIR", "investigation", "magistrate", "police", "court", "process", "arrest", "trial"]
+  },
+  {
+    "ArtNo": "CRIM-EVID-1872",
+    "Name": "Indian Evidence Act",
+    "ArtDesc": "\"An Act to consolidate, define and amend the law of Evidence.\" Determines what evidence is admissible in Indian courts. Came into force September 1, 1872. Establishes rules for witness testimony, documentary evidence, and burden of proof. Amended in 2000 to include electronic evidence.",
+    "Keywords": ["evidence", "proof", "witness", "documents", "admissible", "testimony", "court", "hearsay", "confession", "examination", "proof", "facts"]
+  },
+  {
+    "ArtNo": "CRIM-NDPS-1985",
+    "Name": "Narcotic Drugs and Psychotropic Substances Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to narcotic drugs.\" Known as NDPS Act, provides stringent punishment for drug trafficking. Enacted to fulfill India's obligations under UN conventions. Amended in 2001 to allow bail for addicts seeking treatment.",
+    "Keywords": ["drugs", "narcotics", "trafficking", "addiction", "psychotropic", "seizure", "addict", "rehabilitation", "possession", "smuggling", "substances", "ban"]
+  },
+  {
+    "ArtNo": "CRIM-ARMS-1959",
+    "Name": "Arms Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to arms and ammunition.\" Regulates manufacture, sale, possession and carrying of firearms. Requires licenses for most weapons. Amended in 2019 to increase punishment for illegal weapons.",
+    "Keywords": ["arms", "weapons", "firearms", "license", "ammunition", "prohibited", "possession", "manufacture", "import", "sale", "guns", "control"]
+  },
+  {
+    "ArtNo": "CRIM-ITP-1956",
+    "Name": "Immoral Traffic Prevention Act",
+    "ArtDesc": "\"An Act to prevent trafficking for commercial sexual exploitation.\" Originally Suppression of Immoral Traffic Act (SITA), amended in 1986. Criminalizes operating brothels, pimping, and soliciting. Provides for protective homes for victims.",
+    "Keywords": ["trafficking", "prostitution", "exploitation", "brothel", "rescue", "soliciting", "pimp", "raid", "rehabilitation", "sex", "trade", "abuse"]
+  },
+  {
+    "ArtNo": "CRIM-FA-1954",
+    "Name": "Prevention of Food Adulteration Act",
+    "ArtDesc": "\"An Act to make provision for the prevention of adulteration of food.\" Replaced by Food Safety Act, 2006 but cases still pending under it. Established standards for food quality and punishment for violations.",
+    "Keywords": ["food", "adulteration", "safety", "quality", "inspection", "standards", "contamination", "misbranding", "health", "consumers", "eat", "safe"]
+  },
+  {
+    "ArtNo": "CRIM-COC-1971",
+    "Name": "Contempt of Courts Act",
+    "ArtDesc": "\"An Act to define and limit the powers of courts in punishing contempt.\" Defines civil and criminal contempt. Protects judicial authority while balancing free speech. Recent 2021 amendments exclude truth as defense.",
+    "Keywords": ["contempt", "court", "judge", "disrespect", "authority", "scandalizing", "obedience", "order", "defiance", "dignity", "insult", "order"]
+  },
+  {
+    "ArtNo": "CRIM-UAPA-1967",
+    "Name": "Unlawful Activities Prevention Act",
+    "ArtDesc": "\"An Act to provide for effective prevention of unlawful activities.\" Amended multiple times (2004,2008,2012,2019) to strengthen anti-terror provisions. Allows declaring organizations unlawful and detention without charge.",
+    "Keywords": ["UAPA", "terrorism", "unlawful", "association", "ban", "sedition", "detention", "secession", "investigation", "security", "threat", "ban"]
+  },
+  {
+    "ArtNo": "CRIM-IT-2000",
+    "Name": "Information Technology Act",
+    "ArtDesc": "\"An Act to provide legal recognition for electronic commerce.\" Defines cyber crimes, digital signatures, and data protection. Section 66A struck down in 2015 (Shreya Singhal case). Amended in 2008 to address cyber terrorism.",
+    "Keywords": ["cyber", "digital", "internet", "computer", "e-commerce", "hacking", "signature", "data", "privacy", "online", "web", "tech"]
+  },
+  {
+    "ArtNo": "CRIM-COPY-1957",
+    "Name": "Copyright Act",
+    "ArtDesc": "\"An Act to amend and consolidate the law relating to copyright.\" Protects literary, artistic, musical works. Amended in 2012 for digital rights management and ISP liability. Term is author's life + 60 years.",
+    "Keywords": ["copyright", "creative", "artist", "author", "royalty", "infringement", "piracy", "work", "license", "music", "book", "art"]
+  },
+  {
+    "ArtNo": "CRIM-PAT-1970",
+    "Name": "Patent Act",
+    "ArtDesc": "\"An Act to amend and consolidate the law relating to patents.\" Grants exclusive rights for inventions. Amended in 2005 for TRIPS compliance. Excludes software and business methods. Term: 20 years from filing.",
+    "Keywords": ["patent", "invention", "inventor", "exclusive", "innovation", "TRIPS", "application", "grant", "license", "design", "idea", "rights"]
+  },
+  {
+    "ArtNo": "CRIM-TM-1999",
+    "Name": "Trademarks Act",
+    "ArtDesc": "\"An Act to amend and consolidate the law relating to trademarks.\" Protects brands, logos and distinctive signs. Provides for registration and infringement remedies. Well-known marks get special protection.",
+    "Keywords": ["trademark", "brand", "logo", "symbol", "registration", "infringement", "counterfeit", "goods", "service", "mark", "name", "sign"]
+  },
+  {
+    "ArtNo": "CRIM-NI-1881",
+    "Name": "Negotiable Instruments Act",
+    "ArtDesc": "\"An Act to define and amend the law relating to Promissory Notes, Bills of Exchange and Cheques.\" Governs banking instruments. Section 138 covers cheque bounce cases. Amended in 2018 for faster resolution.",
+    "Keywords": ["cheque", "promissory", "bills", "bank", "payment", "dishonour", "bounce", "instruments", "draft", "note", "money", "pay"]
+  },
+  {
+    "ArtNo": "CRIM-COMP-2013",
+    "Name": "Companies Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to companies.\" Replaced 1956 Act. Introduced CSR, class action suits, and stricter corporate governance. Established NCLT/NCLAT for company disputes.",
+    "Keywords": ["companies", "corporation", "incorporation", "director", "shareholder", "meeting", "accounts", "CSR", "compliance", "board", "business", "firm"]
+  },
+  {
+    "ArtNo": "CRIM-IBC-2016",
+    "Name": "Insolvency and Bankruptcy Code",
+    "ArtDesc": "\"An Act to consolidate and amend laws relating to reorganization and insolvency.\" Unified framework for time-bound resolution. Introduced NCLT process and insolvency professionals. Amended multiple times for efficiency.",
+    "Keywords": ["insolvency", "bankruptcy", "debt", "creditor", "resolution", "NCLT", "liquidation", "default", "corporate", "recovery", "debt", "pay"]
+  },
+  {
+    "ArtNo": "CRIM-ARB-1996",
+    "Name": "Arbitration and Conciliation Act",
+    "ArtDesc": "\"An Act to consolidate and amend law relating to domestic and international arbitration.\" Based on UNCITRAL Model Law. Amended in 2015 and 2019 to promote India as arbitration hub and limit court intervention.",
+    "Keywords": ["arbitration", "dispute", "award", "conciliation", "settlement", "tribunal", "mediation", "agreement", "enforcement", "neutral", "resolve", "deal"]
+  },
+  {
+    "ArtNo": "CRIM-MV-1988",
+    "Name": "Motor Vehicles Act",
+    "ArtDesc": "\"An Act to consolidate laws relating to motor vehicles.\" Regulates licensing, registration, traffic rules and insurance. Heavily amended in 2019 to increase penalties and introduce cashless treatment.",
+    "Keywords": ["vehicle", "motor", "driving", "license", "traffic", "accident", "insurance", "challan", "transport", "road", "drive", "car"]
+  },
+  {
+    "ArtNo": "CRIM-RCT-1987",
+    "Name": "Railway Claims Tribunal Act",
+    "ArtDesc": "\"An Act to establish Claims Tribunal for expeditious adjudication.\" Handles compensation claims for railway accidents, untoward incidents and loss of goods. Replaced civil court jurisdiction.",
+    "Keywords": ["railway", "train", "accident", "claims", "compensation", "passenger", "ticket", "untoward", "injury", "travel", "track", "ticket"]
+  },
+  {
+    "ArtNo": "CRIM-CITZ-1955",
+    "Name": "Citizenship Act",
+    "ArtDesc": "\"An Act to provide for acquisition and termination of Indian citizenship.\" Defines citizenship by birth, descent, registration and naturalization. Amended in 2019 for persecuted minorities from neighboring countries.",
+    "Keywords": ["citizenship", "citizen", "nationality", "passport", "foreigner", "naturalization", "OCI", "descent", "registration", "India", "passport", "belong"]
+  },
+  {
+    "ArtNo": "CRIM-OSA-1923",
+    "Name": "Official Secrets Act",
+    "ArtDesc": "\"An Act to consolidate the law relating to official secrets.\" Criminalizes spying, leaking classified information and unauthorized access. Section 5 covers potential breaches. Controversial for press freedom issues.",
+    "Keywords": ["secrets", "spying", "espionage", "classified", "security", "leak", "confidential", "documents", "government", "state", "spy", "safe"]
+  },
+  {
+    "ArtNo": "CRIM-EDA-1897",
+    "Name": "Epidemic Diseases Act",
+    "ArtDesc": "\"An Act to provide for better prevention of spread of dangerous epidemic diseases.\" Invoked during COVID-19 pandemic. Grants special powers to states for containment measures. Amended in 2020 to protect healthcare workers.",
+    "Keywords": ["epidemic", "disease", "health", "quarantine", "infection", "COVID", "pandemic", "containment", "spread", "virus", "sick", "cure"]
+  },
+  {
+    "ArtNo": "CRIM-DMA-2005",
+    "Name": "Disaster Management Act",
+    "ArtDesc": "\"An Act to provide for effective management of disasters.\" Created NDMA, SDMAs and NDRF. Invoked during COVID-19 for lockdown enforcement. Provides for disaster response funds and mitigation plans.",
+    "Keywords": ["disaster", "emergency", "management", "NDMA", "calamity", "response", "relief", "preparedness", "recovery", "crisis", "help", "aid"]
+  },
+  {
+    "ArtNo": "CRIM-RTI-2005",
+    "Name": "Right to Information Act",
+    "ArtDesc": "\"An Act to provide for setting out practical regime of right to information.\" Empowers citizens to access government records. Time-bound response mandated. Established Information Commissions. Excludes security agencies.",
+    "Keywords": ["RTI", "information", "transparency", "government", "documents", "public", "accountability", "commission", "access", "query", "ask", "know"]
+  },
+  {
+    "ArtNo": "CRIM-WBP-2014",
+    "Name": "Whistle Blowers Protection Act",
+    "ArtDesc": "\"An Act to establish mechanism for receiving complaints on corruption.\" Protects whistleblowers exposing corruption. Passed after Satyendra Dubey murder case. Amended in 2015 but not fully implemented.",
+    "Keywords": ["whistleblower", "corruption", "expose", "complaint", "protection", "vigilance", "misconduct", "disclosure", "integrity", "report", "truth", "expose"]
+  },
+  {
+    "ArtNo": "CRIM-AM-1958",
+    "Name": "Ancient Monuments Act",
+    "ArtDesc": "\"An Act to protect ancient monuments and archaeological sites.\" Regulated by Archaeological Survey of India (ASI). Prohibits construction in prohibited areas. Covers national importance sites.",
+    "Keywords": ["monuments", "ancient", "heritage", "archaeology", "ASI", "site", "preservation", "restoration", "history", "ruins", "past", "old"]
+  },
+  {
+    "ArtNo": "CRIM-AR-1937",
+    "Name": "Aircraft Rules",
+    "ArtDesc": "\"Rules regulating manufacture, registration and operation of aircraft.\" Under Aircraft Act, 1934. Governed by DGCA. Covers licensing, airworthiness, and air transport services.",
+    "Keywords": ["aircraft", "plane", "aviation", "flight", "DGCA", "pilot", "airport", "safety", "airline", "flying", "fly", "sky"]
+  },
+  {
+    "ArtNo": "CRIM-BOIL-1923",
+    "Name": "Boilers Act",
+    "ArtDesc": "\"An Act to consolidate laws relating to steam boilers.\" Provides for inspection and certification. Aims to prevent accidents. Governed by Chief Inspector of Boilers in states.",
+    "Keywords": ["boiler", "steam", "pressure", "safety", "inspection", "accident", "vessel", "certificate", "plant", "industry", "heat", "machine"]
+  },
+  {
+    "ArtNo": "CRIM-CENS-1948",
+    "Name": "Census Act",
+    "ArtDesc": "\"An Act to provide for certain matters in connection with census.\" Mandates decadal population count. Requires citizens to answer questions truthfully. Confidentiality of data guaranteed.",
+    "Keywords": ["census", "population", "survey", "count", "demography", "statistics", "house", "people", "data", "number", "count", "survey"]
+  },
+  {
+    "ArtNo": "JAIL-PRIS-1894",
+    "Name": "Prisons Act",
+    "ArtDesc": "\"An Act to consolidate the law relating to prisons in India.\" Governs prison administration, prisoner treatment, and discipline. Provides framework for state prison rules.",
+    "Keywords": ["prisons", "jail", "inmates", "reform", "custody", "facility", "convicts", "cells", "rehabilitation", "lockup"]
+  },
+  {
+    "ArtNo": "JAIL-PA-1900",
+    "Name": "Prisoners Act",
+    "ArtDesc": "\"An Act to consolidate the law relating to prisoners.\" Deals with prisoner transfers, removal for trial, and temporary release. Complements state prison manuals.",
+    "Keywords": ["prisoners", "transfer", "release", "trial", "detainees", "custody", "remand", "transfer", "rights", "captives"]
+  },
+  {
+    "ArtNo": "JAIL-POA-1958",
+    "Name": "Probation of Offenders Act",
+    "ArtDesc": "\"An Act to provide for release of offenders on probation.\" Allows first-time offenders to avoid prison through good conduct. Focuses on reformation over punishment.",
+    "Keywords": ["probation", "release", "reform", "offenders", "second", "chance", "conduct", "parole", "monitoring", "good"]
+  },
+  {
+    "ArtNo": "JAIL-JJ-2015",
+    "Name": "Juvenile Justice Act",
+    "ArtDesc": "\"An Act to consolidate laws relating to children in conflict with law.\" Establishes Juvenile Justice Boards and Child Welfare Committees. Focuses on rehabilitation.",
+    "Keywords": ["juvenile", "children", "reform", "justice", "minors", "care", "protection", "rehabilitation", "board", "youth"]
+  },
+  {
+    "ArtNo": "JAIL-POCA-1988",
+    "Name": "Prevention of Corruption Act",
+    "ArtDesc": "\"An Act to consolidate law relating to prevention of corruption.\" Criminalizes bribery, embezzlement, and abuse of official position. Applies to public servants.",
+    "Keywords": ["corruption", "bribery", "graft", "public", "servants", "embezzlement", "dishonest", "scam", "fraud", "money"]
+  },
+  {
+    "ArtNo": "JAIL-GOONDA-State",
+    "Name": "Goonda Act (State-specific)",
+    "ArtDesc": "\"State laws to control habitual offenders and anti-social elements.\" Allows preventive detention. Examples include UP Goonda Act, Maharashtra MCOCA.",
+    "Keywords": ["goonda", "gangster", "detention", "preventive", "habitual", "rowdy", "elements", "control", "state", "threat"]
+  },
+  {
+    "ArtNo": "JAIL-IPA-1920",
+    "Name": "Identification of Prisoners Act",
+    "ArtDesc": "\"An Act to authorize taking measurements of convicts and suspects.\" Permits fingerprinting, photographs, and other biometric data collection.",
+    "Keywords": ["identification", "fingerprints", "biometric", "prisoners", "measurements", "records", "data", "suspects", "tracking", "prints"]
+  },
+  {
+    "ArtNo": "JAIL-EXP-1884",
+    "Name": "Explosives Act",
+    "ArtDesc": "\"An Act to regulate manufacture, possession and use of explosives.\" Criminalizes unauthorized handling of explosives. Governed by Chief Controller of Explosives.",
+    "Keywords": ["explosives", "bombs", "dangerous", "blast", "materials", "license", "safety", "control", "risk", "chemicals"]
+  },
+  {
+    "ArtNo": "JAIL-MHA-2017",
+    "Name": "Mental Healthcare Act",
+    "ArtDesc": "\"An Act to provide mental healthcare for persons with mental illness.\" Decriminalizes suicide attempts. Protects rights of mentally ill prisoners.",
+    "Keywords": ["mental", "health", "illness", "care", "suicide", "rights", "treatment", "support", "ill", "prisoners"]
+  },
+  {
+    "ArtNo": "JAIL-CSA-1987",
+    "Name": "Commission of Sati Act",
+    "ArtDesc": "\"An Act to provide for prevention of Sati practice.\" Criminalizes glorification or abetment of Sati. Provides punishment up to death penalty.",
+    "Keywords": ["sati", "practice", "ban", "ritual", "prevention", "custom", "tradition", "women", "protection", "harm"]
+  },
+  {
+    "ArtNo": "JAIL-DPA-1961",
+    "Name": "Dowry Prohibition Act",
+    "ArtDesc": "\"An Act to prohibit giving or taking of dowry.\" Criminalizes dowry demands and provides punishment. Amended to strengthen protections.",
+    "Keywords": ["dowry", "prohibition", "marriage", "gift", "demand", "harassment", "bride", "family", "ban", "money"]
+  },
+  {
+    "ArtNo": "JAIL-PCMA-2006",
+    "Name": "Prohibition of Child Marriage Act",
+    "ArtDesc": "\"An Act to prohibit solemnization of child marriages.\" Makes child marriage voidable at minor's option. Provides punishment for adults involved.",
+    "Keywords": ["child", "marriage", "ban", "minor", "prohibit", "wedlock", "protection", "void", "underage", "prevention"]
+  },
+  {
+    "ArtNo": "JAIL-HOA-1955",
+    "Name": "Habitual Offenders Act",
+    "ArtDesc": "\"State laws to monitor and restrict movement of habitual criminals.\" Allows police surveillance and restrictions. Implemented in various states.",
+    "Keywords": ["habitual", "offenders", "surveillance", "police", "restrictions", "history", "criminals", "track", "monitor", "repeat"]
+  },
+  {
+    "ArtNo": "JAIL-MCOCA-1999",
+    "Name": "Maharashtra Control of Organized Crime Act",
+    "ArtDesc": "\"State Act to combat organized crime and terrorism.\" Allows intercepted communications as evidence. Stringent provisions for bail and confessions.",
+    "Keywords": ["MCOCA", "organized", "crime", "gangs", "terrorism", "intercept", "evidence", "Maharashtra", "stringent", "control"]
+  },
+  {
+    "ArtNo": "JAIL-AHA-2019",
+    "Name": "Anti-Hijacking Act",
+    "ArtDesc": "\"An Act to give effect to Beijing Protocol on aircraft hijacking.\" Provides death penalty for hijacking resulting in death. Replaces 1982 Act.",
+    "Keywords": ["hijacking", "aircraft", "plane", "terrorism", "security", "aviation", "death", "penalty", "sky", "safety"]
+  },
+  {
+    "ArtNo": "JAIL-JJR-2016",
+    "Name": "Juvenile Justice Rules",
+    "ArtDesc": "\"Rules under Juvenile Justice Act for care and protection of children.\" Details procedures for juvenile boards and rehabilitation.",
+    "Keywords": ["juvenile", "rules", "children", "procedure", "care", "rehabilitation", "board", "process", "guidelines", "minors"]
+  },
+  {
+    "ArtNo": "JAIL-MPM-2016",
+    "Name": "Model Prison Manual",
+    "ArtDesc": "\"Guidelines for prison administration and inmate management.\" Focuses on reformative approach, education, and vocational training.",
+    "Keywords": ["prison", "manual", "model", "reform", "inmates", "management", "training", "education", "facility", "standards"]
+  },
+  {
+    "ArtNo": "JAIL-TPA-1950",
+    "Name": "Transfer of Prisoners Act",
+    "ArtDesc": "\"An Act to provide for transfer of prisoners between states/countries.\" Facilitates prisoner transfers for trial or serving sentences.",
+    "Keywords": ["transfer", "prisoners", "states", "countries", "move", "exchange", "trial", "sentence", "jail", "shift"]
+  },
+  {
+    "ArtNo": "JAIL-LSAA-1987",
+    "Name": "Legal Services Authorities Act",
+    "ArtDesc": "\"An Act to provide free legal aid to certain categories including prisoners.\" Establishes legal services authorities at various levels.",
+    "Keywords": ["legal", "aid", "free", "prisoners", "assistance", "justice", "access", "help", "support", "lawyer"]
+  },
+  {
+    "ArtNo": "JAIL-CLAA-2018",
+    "Name": "Criminal Law Amendment Act",
+    "ArtDesc": "\"An Act to amend laws on rape of minors.\" Introduced death penalty for rape of girls below 12 years. Fast-track courts for POCSO cases.",
+    "Keywords": ["rape", "minors", "amendment", "death", "penalty", "children", "fast", "track", "justice", "protection"]
+  },
+  {
+    "ArtNo": "MAR-HMA-1955",
+    "Name": "Hindu Marriage Act",
+    "ArtDesc": "\"An Act to amend and codify the law relating to marriage among Hindus.\" Defines Hindu marriage as sacrament with conditions for valid marriage, void/voidable marriages, divorce provisions, and maintenance rights. Applies to Hindus, Buddhists, Jains, and Sikhs.",
+    "Keywords": ["hindu", "marriage", "divorce", "sacrament", "void", "matrimony", "union", "wedlock", "spouses", "couple"]
+  },
+  {
+    "ArtNo": "MAR-SMA-1954",
+    "Name": "Special Marriage Act",
+    "ArtDesc": "\"An Act to provide a special form of marriage in certain cases.\" Enables inter-religion/caste marriages without conversion. Requires 30-day notice period. Governs marriages where either party isn't Hindu, Muslim, Christian, Parsi or Jew.",
+    "Keywords": ["interfaith", "marriage", "secular", "court", "notice", "civil", "union", "register", "legal", "wedding"]
+  },
+  {
+    "ArtNo": "MAR-ICMA-1872",
+    "Name": "Indian Christian Marriage Act",
+    "ArtDesc": "\"An Act to consolidate and amend the law relating to solemnization of marriages of Christians.\" Provides procedures for marriage solemnization by ministers, registration requirements, and effects of non-compliance.",
+    "Keywords": ["christian", "marriage", "church", "minister", "solemnize", "ritual", "vows", "bible", "faith", "ceremony"]
+  },
+  {
+    "ArtNo": "MAR-PMDA-1936",
+    "Name": "Parsi Marriage and Divorce Act",
+    "ArtDesc": "\"An Act to amend the law relating to marriage and divorce among Parsis.\" Defines Parsi marriage requirements, prohibits bigamy, and establishes Parsi matrimonial courts. Recognizes 'ashirvad' ceremony.",
+    "Keywords": ["parsi", "marriage", "divorce", "irani", "zoroastrian", "ashirvad", "fire", "temple", "priest", "community"]
+  },
+  {
+    "ArtNo": "MAR-MPLA-1937",
+    "Name": "Muslim Personal Law (Shariat) Application Act",
+    "ArtDesc": "\"An Act to apply Muslim Personal Law to Muslims in personal matters.\" Governs marriage (nikah), dower (mahr), divorce (talaq), and maintenance. Recognizes oral divorce and polygyny (with conditions).",
+    "Keywords": ["muslim", "nikah", "shariat", "islam", "quran", "mehr", "talaq", "polygamy", "imam", "contract"]
+  },
+  {
+    "ArtNo": "MAR-PCMA-2006",
+    "Name": "Prohibition of Child Marriage Act",
+    "ArtDesc": "\"An Act to prohibit solemnization of child marriages.\" Makes child marriage voidable at minor's option. Punishes adults conducting/abetting child marriages. Appointment of Child Marriage Prohibition Officers.",
+    "Keywords": ["child", "marriage", "ban", "minor", "prohibit", "underage", "protection", "void", "teen", "prevent"]
+  },
+  {
+    "ArtNo": "MAR-FMA-1969",
+    "Name": "Foreign Marriage Act",
+    "ArtDesc": "\"An Act to make provision relating to marriages of citizens of India outside India.\" Registers marriages where one spouse is Indian citizen performed abroad. Requires notice to marriage officer.",
+    "Keywords": ["foreign", "marriage", "abroad", "overseas", "nri", "diplomatic", "embassy", "international", "register", "spouse"]
+  },
+  {
+    "ArtNo": "MAR-AMA-1909",
+    "Name": "Anand Marriage Act",
+    "ArtDesc": "\"An Act to remove doubts as to validity of marriage rites of Sikhs called Anand.\" Recognizes Anand Karaj ceremony without requiring civil registration. Amended in 2012 for registration procedures.",
+    "Keywords": ["sikh", "anand", "karaj", "gurudwara", "guru", "granth", "sahib", "ceremony", "sangat", "religious"]
+  },
+  {
+    "ArtNo": "MAR-DPA-1961",
+    "Name": "Dowry Prohibition Act",
+    "ArtDesc": "\"An Act to prohibit giving or taking of dowry.\" Criminalizes dowry demands before/during/after marriage. Punishment: 5 years imprisonment + fine. Applies to all religions.",
+    "Keywords": ["dowry", "prohibition", "demand", "bride", "groom", "gifts", "harassment", "crime", "money", "ban"]
+  },
+  {
+    "ArtNo": "MAR-FCA-1984",
+    "Name": "Family Courts Act",
+    "ArtDesc": "\"An Act to provide for establishment of Family Courts.\" Creates specialized courts for speedy settlement of marriage disputes, divorce, maintenance and child custody cases.",
+    "Keywords": ["family", "court", "dispute", "divorce", "counseling", "settlement", "mediation", "judge", "amicable", "resolve"]
+  },
+  {
+    "ArtNo": "MAR-HAMA-1956",
+    "Name": "Hindu Adoptions and Maintenance Act",
+    "ArtDesc": "\"An Act to amend and codify law relating to maintenance among Hindus.\" Secures wife's right to claim maintenance from husband during lifetime. Applies during cohabitation and after separation.",
+    "Keywords": ["maintenance", "alimony", "support", "wife", "husband", "financial", "livelihood", "subsistence", "spouse", "money"]
+  },
+  {
+    "ArtNo": "MAR-MWPRD-1986",
+    "Name": "Muslim Women (Protection of Rights on Divorce) Act",
+    "ArtDesc": "\"An Act to protect rights of Muslim women divorced by their husbands.\" Ensures fair provision and maintenance during iddat period. Recognized after Shah Bano case controversy.",
+    "Keywords": ["muslim", "women", "divorce", "iddat", "maintenance", "mahr", "fair", "provision", "rights", "protection"]
+  },
+  {
+    "ArtNo": "MISC-CITZ-1955",
+    "Name": "Citizenship Act, 1955",
+    "ArtDesc": "An Act to provide for the acquisition and determination of Indian citizenship, covering acquisition by birth, descent, registration, naturalization, and incorporation of territory.",
+    "Keywords": ["citizenship", "nationality", "identity", "registration", "naturalization", "descent", "residency"]
+  },
+  {
+    "ArtNo": "MISC-OSA-1923",
+    "Name": "Official Secrets Act, 1923",
+    "ArtDesc": "An Act to consolidate and amend the law relating to official secrets. It prohibits disclosure of official information that may affect India's sovereignty, integrity, or security.",
+    "Keywords": ["official secrets", "espionage", "confidential", "national security", "classified information"]
+  },
+  {
+    "ArtNo": "MISC-EDA-1897",
+    "Name": "Epidemic Diseases Act, 1897",
+    "ArtDesc": "An Act for the better prevention of the spread of dangerous epidemic diseases. It empowers state governments to take special measures to combat outbreaks.",
+    "Keywords": ["epidemic", "quarantine", "pandemic", "infection", "public health", "disease control"]
+  },
+  {
+    "ArtNo": "MISC-DMA-2005",
+    "Name": "Disaster Management Act, 2005",
+    "ArtDesc": "An Act to provide for effective management of disasters and to establish authorities such as the NDMA for preparedness, response, and mitigation.",
+    "Keywords": ["disaster", "emergency", "earthquake", "flood", "NDMA", "cyclone", "management"]
+  },
+  {
+    "ArtNo": "MISC-RTI-2005",
+    "Name": "Right to Information Act, 2005",
+    "ArtDesc": "An Act to empower citizens to access information under the control of public authorities, promoting transparency and accountability in governance.",
+    "Keywords": ["RTI", "information", "transparency", "public records", "citizen rights", "governance"]
+  },
+  {
+    "ArtNo": "MISC-WBPA-2014",
+    "Name": "Whistle Blowers Protection Act, 2014",
+    "ArtDesc": "An Act to protect individuals who expose corruption or misconduct in public offices and provide a mechanism to investigate such disclosures.",
+    "Keywords": ["whistleblower", "corruption", "misconduct", "protection", "disclosure", "accountability"]
+  },
+  {
+    "ArtNo": "MISC-AMASR-1958",
+    "Name": "Ancient Monuments and Archaeological Sites and Remains Act, 1958",
+    "ArtDesc": "An Act to preserve ancient and historical monuments, archaeological sites and remains of national importance.",
+    "Keywords": ["heritage", "monuments", "archaeology", "culture", "history", "preservation"]
+  },
+  {
+    "ArtNo": "MISC-AR-1937",
+    "Name": "Aircraft Rules, 1937",
+    "ArtDesc": "Rules regulating the operation and maintenance of civil aircraft, formed under the Aircraft Act to ensure aviation safety.",
+    "Keywords": ["aviation", "aircraft", "flight", "safety", "DGCA", "air travel", "rules"]
+  },
+  {
+    "ArtNo": "MISC-BA-1923",
+    "Name": "Boilers Act, 1923",
+    "ArtDesc": "An Act to regulate the use of boilers and ensure the safety of workers and the public in industrial establishments.",
+    "Keywords": ["boiler", "industry", "pressure", "safety", "factory", "inspection"]
+  },
+  {
+    "ArtNo": "MISC-CA-1948",
+    "Name": "Census Act, 1948",
+    "ArtDesc": "An Act for conducting population censuses in India and ensuring confidentiality of collected data.",
+    "Keywords": ["census", "population", "survey", "demographics", "enumeration"]
+  },
+  {
+    "ArtNo": "MISC-CMRA-1929",
+    "Name": "Child Marriage Restraint Act, 1929",
+    "ArtDesc": "An Act to restrain the solemnization of child marriages by setting minimum legal ages and penalties.",
+    "Keywords": ["child marriage", "minor", "protection", "age", "social reform"]
+  },
+  {
+    "ArtNo": "MISC-CINA-1952",
+    "Name": "Cinematograph Act, 1952",
+    "ArtDesc": "An Act to regulate the certification and exhibition of cinematograph films for public viewing in India.",
+    "Keywords": ["films", "cinema", "CBFC", "certification", "movies", "exhibition"]
+  },
+  {
+    "ArtNo": "MISC-CSPA-1987",
+    "Name": "Commission of Sati (Prevention) Act, 1987",
+    "ArtDesc": "An Act to prevent the practice of sati and its glorification. It criminalizes aiding or glorifying sati.",
+    "Keywords": ["sati", "widow", "ritual", "prevention", "crime", "women"]
+  },
+  {
+    "ArtNo": "MISC-ENP-1950",
+    "Name": "Emblems and Names (Prevention of Improper Use) Act, 1950",
+    "ArtDesc": "An Act to prevent improper use of certain emblems and names for professional or commercial purposes.",
+    "Keywords": ["emblem", "misuse", "symbol", "national", "flag", "names"]
+  },
+  {
+    "ArtNo": "MISC-EXP-1884",
+    "Name": "Explosives Act, 1884",
+    "ArtDesc": "An Act to regulate the manufacture, possession, use, sale, and transport of explosives for public safety.",
+    "Keywords": ["explosives", "safety", "bomb", "fireworks", "license", "transport"]
+  },
+  {
+    "ArtNo": "MISC-ITA-1885",
+    "Name": "Indian Telegraph Act, 1885",
+    "ArtDesc": "An Act to govern telegraph communication and grant the government control over telegraph infrastructure.",
+    "Keywords": ["telegraph", "communication", "control", "infrastructure", "interception"]
+  },
+  {
+    "ArtNo": "MISC-IMS-1992",
+    "Name": "Infant Milk Substitutes Act, 1992",
+    "ArtDesc": "An Act to regulate production, supply, and promotion of infant milk substitutes to protect breastfeeding.",
+    "Keywords": ["infant", "milk", "substitute", "nutrition", "feeding", "breastfeeding"]
+  },
+  {
+    "ArtNo": "MISC-MTP-1971",
+    "Name": "Medical Termination of Pregnancy Act, 1971",
+    "ArtDesc": "An Act to provide for legal and safe termination of pregnancies under specific conditions by registered practitioners.",
+    "Keywords": ["pregnancy", "abortion", "health", "medical", "women", "termination"]
+  },
+  {
+    "ArtNo": "MISC-MHA-2017",
+    "Name": "Mental Healthcare Act, 2017",
+    "ArtDesc": "An Act to provide mental health care and protect the rights of individuals with mental illnesses.",
+    "Keywords": ["mental health", "illness", "psychiatry", "healthcare", "patient rights", "treatment"]
+  },
+  {
+    "ArtNo": "MISC-MINES-1952",
+    "Name": "Mines Act, 1952",
+    "ArtDesc": "An Act to regulate the safety, health, and welfare of workers in coal, metalliferous and oil mines.",
+    "Keywords": ["mines", "safety", "labor", "coal", "inspection", "health"]
+  },
+  {
+    "ArtNo": "MISC-NSA-1980",
+    "Name": "National Security Act, 1980",
+    "ArtDesc": "An Act to provide for preventive detention to maintain public order and national security.",
+    "Keywords": ["national security", "detention", "public order", "law and order"]
+  },
+  {
+    "ArtNo": "MISC-POCSO-Rules",
+    "Name": "Protection of Children from Sexual Offences Rules",
+    "ArtDesc": "Rules under POCSO Act ensuring proper procedures for reporting, recording, and prosecuting child sexual abuse cases.",
+    "Keywords": ["POCSO", "children", "sexual abuse", "protection", "law", "rules"]
+  },
+  {
+    "ArtNo": "MISC-RTE-2009",
+    "Name": "Right of Children to Free and Compulsory Education Act, 2009",
+    "ArtDesc": "An Act to provide free and compulsory education to all children aged 6 to 14 years.",
+    "Keywords": ["RTE", "education", "children", "school", "learning", "compulsory"]
+  },
+  {
+    "ArtNo": "MISC-SEBI-1992",
+    "Name": "Securities and Exchange Board of India Act, 1992",
+    "ArtDesc": "An Act to establish SEBI for regulation of securities market and protection of investor interests.",
+    "Keywords": ["SEBI", "stock market", "investment", "finance", "regulation"]
+  },
+  {
+    "ArtNo": "MISC-TRAI-1997",
+    "Name": "Telecom Regulatory Authority of India Act, 1997",
+    "ArtDesc": "An Act to regulate telecom services and ensure fair competition, consumer protection and transparency.",
+    "Keywords": ["telecom", "TRAI", "services", "regulation", "mobile", "internet"]
+  },
+  {
+    "ArtNo": "MISC-THOA-1994",
+    "Name": "Transplantation of Human Organs Act, 1994",
+    "ArtDesc": "An Act to regulate removal, storage, and transplantation of human organs and to prevent commercial dealings.",
+    "Keywords": ["organ donation", "transplant", "health", "tissue", "human", "medical"]
+  },
+  {
+    "ArtNo": "MISC-WA-1995",
+    "Name": "Wakf Act, 1995",
+    "ArtDesc": "An Act for administration of Wakf properties dedicated for religious and charitable purposes in Islam.",
+    "Keywords": ["wakf", "property", "Islamic", "religion", "charity", "board"]
+  },
+  {
+    "ArtNo": "MISC-WRA-State",
+    "Name": "Water Resources Acts (State-specific)",
+    "ArtDesc": "Acts passed by various states to govern usage, allocation, and conservation of water resources.",
+    "Keywords": ["water", "irrigation", "river", "conservation", "allocation", "policy"]
+  },
+  {
+    "ArtNo": "MISC-APMC-State",
+    "Name": "Agricultural Produce Market Committee Acts (State-specific)",
+    "ArtDesc": "Laws that govern marketing and pricing of agricultural produce through APMC markets in states.",
+    "Keywords": ["agriculture", "market", "APMC", "farmers", "pricing", "mandi"]
+  },
+  {
+    "ArtNo": "MISC-ECA-1955",
+    "Name": "Essential Commodities Act, 1955",
+    "ArtDesc": "An Act to control the production, supply, and distribution of essential commodities to ensure availability at fair prices.",
+    "Keywords": ["ration", "commodities", "supply", "black market", "food", "inflation", "shortage"]
+  }
+]
+]

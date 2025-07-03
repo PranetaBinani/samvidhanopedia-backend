@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simplified Laws</title>
+  <link rel="stylesheet" href="style/style2.css">
+  <link rel="stylesheet" href="style/specialstyle.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+  <body>
+  <div class="sticky-header" id="sticky-header">
+   
+    <div class="logo">
+        <img src="imgs/logo.png">
+        <a href="index.html">Samvidhanopedia<br><p>Your Gateway To Understanding Laws!</p></a></div>
+    <div class="menu">
+      <a href="special.html">Search</a>
+      <a href="consult.html">Consult</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact Us</a>
+      <a href="#login"><i class="fa-solid fa-user"></i></a>
+    </div>
+  </div>
+ <main class="law-ai-main">
+  <div class="law-ai-wrapper">
+
+    <!-- LEFT: Editable Law Section -->
+    <div class="law-box">
+      <div class="law-header">
+        <h2 id="law-title">Law Title</h2>
+        <button id="edit-btn" class="edit-btn">Edit</button>
+      </div>
+      <textarea id="law-body" class="law-textarea" readonly></textarea>
+    </div>
+
+    <!-- RIGHT: AI Explanation Section -->
+    <div class="ai-box">
+      <div class="ai-header">
+        <h3>AI Simplified Explanation</h3>
+        <button id="regenerate-btn" class="regen-btn">Regenerate</button>
+      </div>
+      <div id="ai-response" class="ai-response">Loading...</div>
+      <div class="ai-buttons">
+  <button id="copy-btn" class="ai-action-btn">📋 Copy</button>
+  <button id="speak-btn" class="ai-action-btn">🔊 Speak</button>
+</div>
+
+    </div>
+
+  </div>
+</main>
+
+  <footer>
+    <p>2025 Simplified Laws. All Rights Reserved.</p>
+    <p>Designed with ❤️ for a better understanding of laws.</p>
+  </footer>
+  <script src="script/script2.js"></script>
+  <script src="script/script.js"></script>
+</body>
+</html>
