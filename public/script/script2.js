@@ -106,21 +106,30 @@ document.getElementById('copy-btn').addEventListener('click', () => {
 });
 
 // SPEAK using browser TTS
- document.getElementById('speak-btn').addEventListener('click', () => {
+  document.getElementById('speak-btn').addEventListener('click', () => {
   const synth = window.speechSynthesis;
+  const text = document.getElementById('ai-response').innerText.trim();
 
-  // If already speaking, stop it
+  if (!text) {
+    alert("Nothing to speak!");
+    return;
+  }
+
   if (synth.speaking) {
     synth.cancel();
     return;
   }
 
-  const text = document.getElementById('ai-response').innerText;
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = 'en-IN';
   utterance.pitch = 1;
   utterance.rate = 1;
 
+  // Set voice if available
+  const voices = synth.getVoices();
+  utterance.voice = voices.find(v => v.lang === 'en-IN') || voices[0];
+
   synth.speak(utterance);
 });
+
 
