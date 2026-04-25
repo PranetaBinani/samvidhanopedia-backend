@@ -42,7 +42,7 @@
     });
 
  async function getAIExplanation(lawText) {
-  const prompt = `Explain this Indian constitutional law in very simple words,dont answer very lengthy okay try to solve the users problem,give links to file the case if possible and what action can be take by law like how many years of jail or property dispute or how to ovrcome the situation  ,like a teacher ,plain text only, without using any markdown or formatting. Just use normal sentences.\n\n${lawText}`;
+  const prompt = `Explain this Indian constitutional law in very simple words,dont answer very lengthy okay try to solve the users problem,give links to file the case if possible and what action can be take by law like how many years of jail or property dispute or how to ovrcome the situation  ,like a teacher ,plain text only, without using any markdown or formatting. Just use normal sentences.Keep it Short\n\n${lawText}`;
 
   const aiBox = document.getElementById('ai-response');
   aiBox.innerText = 'Thinking..... This may take a minute';

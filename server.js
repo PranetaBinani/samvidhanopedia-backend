@@ -26,7 +26,7 @@ app.post('/chat', async (req, res) => {
     const response = await axios.post(
       'https://openrouter.ai/api/v1/chat/completions',
       {
-        model: 'deepseek/deepseek-chat-v3-0324:free',
+        model: 'openai/gpt-oss-20b:free',
         messages: [{ role: 'user', content: req.body.message }]
       },
       {
